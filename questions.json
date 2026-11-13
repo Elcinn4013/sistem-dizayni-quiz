@@ -1,0 +1,3122 @@
+[
+  {
+    "id": 1,
+    "question": "Aşağıdakılardan hansı sistem anlayışının ən ümumiləşdirilmiş tərifini ifadə edir?",
+    "options": [
+      "Bir və ya daha çox məqsədə çatmaq üçün bir arada olan və əlaqələri mövcud olan fiziki və ya konseptual komponentlərin əmələ gətirdiyi bütöv",
+      "Yalnız fiziki obyektlərdən ibarət və müəyyən funksiyanı yerinə yetirən quruluş",
+      "Bir-biri ilə əlaqəsi olmayan komponentlərin məcmusu",
+      "Yalnız insan tərəfindən yaradılmış proseslər toplusu",
+      "Ətraf mühitdən tamamilə təcrid olunmuş elementlər qrupu"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Bir və ya daha çox məqsədə çatmaq üçün bir arada olan və əlaqələri mövcud olan fiziki və ya konseptual komponentlərin əmələ gətirdiyi bütöv"
+  },
+  {
+    "id": 2,
+    "question": "Sistem düşüncəsinin meydana çıxması əsasən hansı dövrə təsadüf edir?",
+    "options": [
+      "1940-cı illərə",
+      "1800-cü illərə",
+      "1900-cü illərin əvvəllərinə",
+      "1920-ci illərə",
+      "1980-ci illərə"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "1940-cı illərə"
+  },
+  {
+    "id": 3,
+    "question": "İxtisaslaşma və avtomatlaşdırmanın sistemlərə təsirinin nəticələrindən biri hansı olmuşdur?",
+    "options": [
+      "Problemlərin və funksiyaların daha kiçik hissələrə bölünməsi",
+      "Sistemlərin tamamilə sadələşməsi",
+      "Fənlərarası yanaşmanın aradan qalxması",
+      "Sistemlərin məqsədsiz hala gəlməsi",
+      "Elmi metoddan imtina edilməsi"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Problemlərin və funksiyaların daha kiçik hissələrə bölünməsi"
+  },
+  {
+    "id": 4,
+    "question": "Problemlərin kiçik hissələrə bölünməsi hansı çətinliyi yaratmışdı?",
+    "options": [
+      "Müxtəlif sistemlərin ortaq prinsiplərini və funksiyalarını anlamağın çətinləşməsini",
+      "Sistemlərin fiziki komponentlərinin azalmasını",
+      "Texnologiyanın inkişafının dayanmasını",
+      "İnsan-maşın sistemlərinin yox olmasını",
+      "Elmin texnologiyadan ayrılmasını"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Müxtəlif sistemlərin ortaq prinsiplərini və funksiyalarını anlamağın çətinləşməsini"
+  },
+  {
+    "id": 5,
+    "question": "Sistem yanaşmasının meydana gəlməsinin əsas məqsədlərindən biri hansı idi?",
+    "options": [
+      "Sistemlər arasındakı ortaq prinsipləri və problemləri əlaqələndirmək",
+      "Bütün elmləri bir fənnə çevirmək",
+      "Avtomatlaşdırmanı tamamilə dayandırmaq",
+      "Yalnız fiziki sistemləri öyrənmək",
+      "Problemləri ayrı-ayrı fənlərə bölmək"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sistemlər arasındakı ortaq prinsipləri və problemləri əlaqələndirmək"
+  },
+  {
+    "id": 6,
+    "question": "“Elmin bir bütöv olması” amilinin sistem düşüncəsi ilə əlaqəsi necə izah olunur?",
+    "options": [
+      "Fənlərarası yanaşma elmi bütövlüyü aşmağa kömək edir",
+      "Elm yalnız bir fənn daxilində araşdırılmalıdır",
+      "Fənlərin sayı artırılmalıdır",
+      "Elmi metoddan istifadə edilməməlidir",
+      "Bütün problemlər yalnız fizika ilə həll edilməlidir"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Fənlərarası yanaşma elmi bütövlüyü aşmağa kömək edir"
+  },
+  {
+    "id": 7,
+    "question": "Elmdə israfçılıq hansı vəziyyətlə əlaqələndirilir?",
+    "options": [
+      "Eyni mövzuların müxtəlif fənlərdə ayrı-ayrılıqda araşdırılması və səylərin səpələnməsi",
+      "Müxtəlif fənlərin heç vaxt eyni mövzu ilə maraqlanmaması",
+      "Eksperimentlərin aparılmaması",
+      "Texnologiyanın inkişaf etməsi",
+      "Sistemlərin mürəkkəb olması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Eyni mövzuların müxtəlif fənlərdə ayrı-ayrılıqda araşdırılması və səylərin səpələnməsi"
+  },
+  {
+    "id": 8,
+    "question": "Sistem düşüncəsinin meydana çıxmasına səbəb kimi göstərilən “elmi metodun yetərsizliyi” nəyi ifadə edir?",
+    "options": [
+      "Analiz və sintezə əsaslanan metodun müəyyən mürəkkəb problemlərin həllində yetərsiz qalmasını",
+      "Elmi metodun bütün sahələrdə tamamilə yanlış olmasını",
+      "Elmi metodun yalnız sosial elmlərdə istifadə edilməsini",
+      "Hipotezlərin heç vaxt qurulmamasını",
+      "Eksperimentlərin sistemlərə aid olmamasını"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Analiz və sintezə əsaslanan metodun müəyyən mürəkkəb problemlərin həllində yetərsiz qalmasını"
+  },
+  {
+    "id": 9,
+    "question": "“Bitib-tükənməyən problemlər” amilinin əsas məzmunu hansıdır?",
+    "options": [
+      "Biliklərin artmasına baxmayaraq sual və problemlərin davam etməsi",
+      "İnsanların artıq bütün problemləri həll etməsi",
+      "Elmi araşdırmaların tamamilə dayanması",
+      "Sistemlərin məqsədlərinin yox olması",
+      "Texnologiyanın inkişaf etməməsi"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Biliklərin artmasına baxmayaraq sual və problemlərin davam etməsi"
+  },
+  {
+    "id": 10,
+    "question": "Sistem yanaşmasının üç əsas prinsipi hansılardır?",
+    "options": [
+      "Bütövlükçü, fənlərarası və elmi yanaşma",
+      "Analiz, sintez, modelləşdirmə",
+      "Texniki, iqtisadi və sosial yanaşma",
+      "Statik, dinamik və açıq yanaşma",
+      "Fiziki, konseptual və məntiqi yanaşma"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Bütövlükçü, fənlərarası və elmi yanaşma"
+  },
+  {
+    "id": 11,
+    "question": "Bütövlükçü yanaşmaya əsasən sistem elementi nə zaman funksional məna ifadə edir?",
+    "options": [
+      "Sistemin digər elementləri ilə birlikdə nəzərdən keçirildikdə",
+      "Digər elementlərdən təcrid edildikdə",
+      "Yalnız fiziki olduqda",
+      "Ətraf mühitdən ayrıldıqda",
+      "Məqsədsiz olduqda"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sistemin digər elementləri ilə birlikdə nəzərdən keçirildikdə"
+  },
+  {
+    "id": 12,
+    "question": "Bütövlükçü yanaşmanın əsas xüsusiyyətlərindən biri hansıdır?",
+    "options": [
+      "Sistemi və problemləri bütöv kimi nəzərdən keçirmək",
+      "Sistemin elementlərini bir-birindən tamamilə ayırmaq",
+      "Yalnız bir elementə diqqət yetirmək",
+      "Fənlərarası əlaqələri azaltmaq",
+      "Sistem məqsədini nəzərə almamaq"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sistemi və problemləri bütöv kimi nəzərdən keçirmək"
+  },
+  {
+    "id": 13,
+    "question": "Fənlərarası yanaşma nə üçün zəruri hesab olunur?",
+    "options": [
+      "Problemlərə müxtəlif baxış bucaqlarından yanaşmaq üçün",
+      "Sistemi yalnız bir elm sahəsi ilə məhdudlaşdırmaq üçün",
+      "Elmi metoddan imtina etmək üçün",
+      "Sistemləri sadələşdirmək üçün",
+      "Sistem elementlərini azaltmaq üçün"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Problemlərə müxtəlif baxış bucaqlarından yanaşmaq üçün"
+  },
+  {
+    "id": 14,
+    "question": "Problemlərə yalnız bir elm sahəsinin baxış bucağından yanaşmağın mümkün nəticəsi nədir?",
+    "options": [
+      "Qərəzli və gerçəkdən uzaq nəticəyə çatmaq ehtimalının yaranması",
+      "Daha universal nəticə əldə etmək",
+      "Sistemlərarası əlaqələrin artması",
+      "Qrup işinin avtomatik yaranması",
+      "Sistem məqsədinin dəqiq müəyyənləşməsi"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Qərəzli və gerçəkdən uzaq nəticəyə çatmaq ehtimalının yaranması"
+  },
+  {
+    "id": 15,
+    "question": "Fənlərarası yanaşmanın nəticəsində hansı metodun gündəmə gəldiyi qeyd olunur?",
+    "options": [
+      "Qrup işi",
+      "Ekspert sistemi",
+      "Fərdi tədqiqat",
+      "Avtomatlaşdırılmış idarəetmə",
+      "Statistik analiz"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Qrup işi"
+  },
+  {
+    "id": 16,
+    "question": "Sistem yanaşmasında elmi yanaşmanın əsas funksiyası nədir?",
+    "options": [
+      "Problemləri bütövlükdə və müxtəlif baxış bucaqları ilə araşdırmaq üçün konkret metod təqdim etmək",
+      "Yalnız fiziki obyektləri təsnif etmək",
+      "Sistemləri qapalı vəziyyətə gətirmək",
+      "Fənlərarası yanaşmanı əvəz etmək",
+      "Sistem məqsədlərini ləğv etmək"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Problemləri bütövlükdə və müxtəlif baxış bucaqları ilə araşdırmaq üçün konkret metod təqdim etmək"
+  },
+  {
+    "id": 17,
+    "question": "Əsas elmlər üçün verilmiş elmi metodun ilk mərhələsi hansıdır?",
+    "options": [
+      "Hadisənin müşahidə edilməsi və problemin müəyyənləşdirilməsi",
+      "Hipotezin sınaqdan keçirilməsi",
+      "Məlumatların toplanması",
+      "Ümumiləşdirmə",
+      "Nəticələrin elan edilməsi"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Hadisənin müşahidə edilməsi və problemin müəyyənləşdirilməsi"
+  },
+  {
+    "id": 18,
+    "question": "Aşağıdakılardan hansı verilmiş elmi metod mərhələlərinin düzgün ardıcıllığına uyğundur?",
+    "options": [
+      "Müşahidə/problem → hipotez → məlumatların toplanması → eksperiment → nəticə → ümumiləşdirmə",
+      "Hipotez → müşahidə → nəticə → məlumat → eksperiment",
+      "Məlumat → nəticə → hipotez → müşahidə → ümumiləşdirmə",
+      "Eksperiment → hipotez → müşahidə → məlumat → nəticə",
+      "Ümumiləşdirmə → hipotez → eksperiment → müşahidə"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Müşahidə/problem → hipotez → məlumatların toplanması → eksperiment → nəticə → ümumiləşdirmə"
+  },
+  {
+    "id": 19,
+    "question": "Sistem anlayışının dörd ortaq nöqtəsi hansılardır?",
+    "options": [
+      "Ünsür, xüsusiyyət, fəaliyyət, vəziyyət",
+      "Məqsəd, giriş, çıxış, geri-bildirim",
+      "İnsan, maşın, xammal, avadanlıq",
+      "Səbəb, nəticə, enerji, zaman",
+      "Məkan, zaman, enerji, məntiq"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Ünsür, xüsusiyyət, fəaliyyət, vəziyyət"
+  },
+  {
+    "id": 20,
+    "question": "Sistem daxilindəki istənilən obyekt necə adlandırılır?",
+    "options": [
+      "Ünsür",
+      "Xüsusiyyət",
+      "Fəaliyyət",
+      "Vəziyyət",
+      "Məqsəd"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Ünsür"
+  },
+  {
+    "id": 21,
+    "question": "Sistemdə ünsürlərin keyfiyyətlərini ifadə edən anlayış hansıdır?",
+    "options": [
+      "Xüsusiyyət",
+      "Fəaliyyət",
+      "Əlaqə",
+      "Vəziyyət",
+      "Məqsəd"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Xüsusiyyət"
+  },
+  {
+    "id": 22,
+    "question": "Sistemdə dəyişikliyi təmin edən proseslər nə adlanır?",
+    "options": [
+      "Fəaliyyət",
+      "Ünsür",
+      "Xüsusiyyət",
+      "Vəziyyət",
+      "İyerarxiya"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Fəaliyyət"
+  },
+  {
+    "id": 23,
+    "question": "Sistemin müəyyən zaman nöqtəsindəki ünsür, xüsusiyyət və fəaliyyətlərinin təsviri hansı anlayışdır?",
+    "options": [
+      "Vəziyyət",
+      "Məqsəd",
+      "Əlaqə",
+      "Alt sistem",
+      "Fəaliyyət"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Vəziyyət"
+  },
+  {
+    "id": 24,
+    "question": "Aşağıdakılardan hansı sistemin tərifindən birbaşa çıxan üç əsas xüsusiyyətdir?",
+    "options": [
+      "Ünsürlər, əlaqələr və məqsəd",
+      "Giriş, çıxış və geri-bildirim",
+      "İnsan, maşın və xammal",
+      "Məkan, zaman və enerji",
+      "Statiklik, canlılıq və mürəkkəblik"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Ünsürlər, əlaqələr və məqsəd"
+  },
+  {
+    "id": 25,
+    "question": "Avtomobil sistemində porşen, sükan və sürətlər qutusu necə qiymətləndirilir?",
+    "options": [
+      "Ünsür kimi",
+      "Məqsəd kimi",
+      "Xüsusiyyət kimi",
+      "Vəziyyət kimi",
+      "Ətraf mühit kimi"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Ünsür kimi"
+  },
+  {
+    "id": 26,
+    "question": "Müəssisədə idarəetmə və nəzarət fəaliyyətlərinin sistem ünsürü kimi qəbul edilməsinin əsas səbəbi nədir?",
+    "options": [
+      "Sistem daxilində fəaliyyətlərin də ünsür kimi düşünülə bilməsi",
+      "Onların yalnız fiziki obyekt olması",
+      "Onların sistemdən kənarda yerləşməsi",
+      "Onların məqsədsiz olması",
+      "Onların yalnız statik olması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sistem daxilində fəaliyyətlərin də ünsür kimi düşünülə bilməsi"
+  },
+  {
+    "id": 27,
+    "question": "Alt sistem anlayışını ən düzgün ifadə edən variant hansıdır?",
+    "options": [
+      "Sistemin məqsədinə töhfə verən və sistem daxilində yerləşən digər sistem",
+      "Sistemə heç bir töhfə verməyən ayrıca obyekt",
+      "Sistemdən tamamilə müstəqil olan sistem",
+      "Yalnız fiziki komponent",
+      "Ətraf mühitin bir hissəsi"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sistemin məqsədinə töhfə verən və sistem daxilində yerləşən digər sistem"
+  },
+  {
+    "id": 28,
+    "question": "Sistem elementləri arasında hər növ axın əlaqəsi necə adlandırılır?",
+    "options": [
+      "Əlaqə",
+      "Məqsəd",
+      "Vəziyyət",
+      "Xüsusiyyət",
+      "Fəaliyyət"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Əlaqə"
+  },
+  {
+    "id": 29,
+    "question": "İstehsalat sistemində dəzgahlar arasındakı məsafə hansı əlaqəyə nümunədir?",
+    "options": [
+      "Məkan əlaqəsi",
+      "Zaman əlaqəsi",
+      "Məntiqi əlaqə",
+      "Səbəb-nəticə əlaqəsi",
+      "Enerji əlaqəsi"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Məkan əlaqəsi"
+  },
+  {
+    "id": 30,
+    "question": "Hadisələrin sistem daxilində hansı ardıcıllıqla baş verdiyini ayırd etməyə xidmət edən əlaqə hansıdır?",
+    "options": [
+      "Zaman əlaqəsi",
+      "Məkan əlaqəsi",
+      "Məntiqi əlaqə",
+      "Enerjinin qorunması əlaqəsi",
+      "Səbəb-nəticə əlaqəsi"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Zaman əlaqəsi"
+  },
+  {
+    "id": 31,
+    "question": "Məhsula olan tələbatın artması nəticəsində məhsul qiymətinin artması hansı əlaqəni göstərir?",
+    "options": [
+      "Səbəb-nəticə",
+      "Məkan",
+      "Zaman",
+      "Məntiqi",
+      "Enerji"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Səbəb-nəticə"
+  },
+  {
+    "id": 32,
+    "question": "Enerjinin qorunması əlaqəsi ilə bağlı hansı fikir sənədə uyğundur?",
+    "options": [
+      "Maddə formadan-formaya keçərkən enerji və maddənin qorunması sistemlər üçün də keçərlidir",
+      "Enerji və maddə proses zamanı tamamilə yox olur",
+      "Bu əlaqə yalnız kompüter proqramlarına aiddir",
+      "Yalnız canlı sistemlərdə müşahidə olunur",
+      "Yalnız müəssisələr üçün keçərlidir"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Maddə formadan-formaya keçərkən enerji və maddənin qorunması sistemlər üçün də keçərlidir"
+  },
+  {
+    "id": 33,
+    "question": "Xüsusilə mücərrəd sistemlərdə və kompüter proqramlarında tez-tez rast gəlinən əlaqə hansıdır?",
+    "options": [
+      "Məntiqi əlaqə",
+      "Məkan əlaqəsi",
+      "Zaman əlaqəsi",
+      "Enerji əlaqəsi",
+      "Fiziki əlaqə"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Məntiqi əlaqə"
+  },
+  {
+    "id": 34,
+    "question": "Sistem məqsədləri ilə bağlı hansı fikir düzgündür?",
+    "options": [
+      "Hər sistemin yönəldiyi bir və ya daha çox məqsəd vardır",
+      "Yalnız insan tərəfindən yaradılmış sistemlərin məqsədi olur",
+      "Təbii sistemlərin heç vaxt məqsədi olmur",
+      "Məqsəd sistem elementlərindən asılı deyil",
+      "Məqsəd yalnız müəssisələr üçün müəyyənləşdirilir"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Hər sistemin yönəldiyi bir və ya daha çox məqsəd vardır"
+  },
+  {
+    "id": 35,
+    "question": "İnsan tərəfindən yaradılmış sistemlərdə məqsədi müəyyənləşdirmək niyə nisbətən asandır?",
+    "options": [
+      "Onlar müəyyən məqsədə çatmaq üçün insanlar tərəfindən yaradılmışdır",
+      "Onlar həmişə sadə sistemlərdir",
+      "Onların ətraf mühitlə əlaqəsi yoxdur",
+      "Onlar yalnız fiziki elementlərdən ibarətdir",
+      "Onlar həmişə qapalı sistemlərdir"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Onlar müəyyən məqsədə çatmaq üçün insanlar tərəfindən yaradılmışdır"
+  },
+  {
+    "id": 36,
+    "question": "Günəş sistemi ilə bağlı materialda hansı problem vurğulanır?",
+    "options": [
+      "Belə geniş sistemlər üçün məqsədin müəyyənləşdirilməsinin teoloji mübahisələrə səbəb ola bilməsi",
+      "Günəş sisteminin elementlərinin olmaması",
+      "Onun cansız sistem olması",
+      "Onun insan tərəfindən yaradılması",
+      "Onun mürəkkəb sistem olmaması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Belə geniş sistemlər üçün məqsədin müəyyənləşdirilməsinin teoloji mübahisələrə səbəb ola bilməsi"
+  },
+  {
+    "id": 37,
+    "question": "Sistemlərin təsnifatına aşağıdakılardan hansı daxildir?",
+    "options": [
+      "Açıq-qapalı, canlı-cansız, təbii-insan tərəfindən yaradılmış",
+      "Kiçik-böyük, ucuz-baha, sürətli-yavaş",
+      "Lokal-qlobal, rəqəmsal-analoq, daxili-xarici",
+      "Formal-qeyri-formal, rəsmi-qeyri-rəsmi",
+      "Aktiv-passiv, fərdi-kollektiv, iqtisadi-sosial"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Açıq-qapalı, canlı-cansız, təbii-insan tərəfindən yaradılmış"
+  },
+  {
+    "id": 38,
+    "question": "Qapalı sistem haqqında sənəddə hansı mövqe ifadə olunur?",
+    "options": [
+      "Qapalı sistemlər ətraf mühitlə heç bir qarşılıqlı əlaqəyə malik deyil və belə real nümunə tapmaq demək olar ki, mümkün deyil",
+      "Real həyatda qapalı sistemlər çox geniş yayılmışdır",
+      "Qapalı sistemlər yalnız canlı sistemlərdir",
+      "Qapalı sistemlər mütləq insan tərəfindən yaradılır",
+      "Qapalı sistemlərdə enerji mübadiləsi mütləq baş verir"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Qapalı sistemlər ətraf mühitlə heç bir qarşılıqlı əlaqəyə malik deyil və belə real nümunə tapmaq demək olar ki, mümkün deyil"
+  },
+  {
+    "id": 39,
+    "question": "Açıq sistemin əsas xüsusiyyəti hansıdır?",
+    "options": [
+      "Ətraf mühitlə məlumat, material və enerji mübadiləsinin olması",
+      "Ətraf mühitlə heç bir əlaqəsinin olmaması",
+      "Yalnız məlumat mübadiləsi aparması",
+      "Yalnız enerji mübadiləsi aparması",
+      "Yalnız fiziki elementlərdən ibarət olması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Ətraf mühitlə məlumat, material və enerji mübadiləsinin olması"
+  },
+  {
+    "id": 40,
+    "question": "Aşağıdakı nümunələrdən hansı sənəddə canlı sistemə nümunə kimi göstərilir?",
+    "options": [
+      "İnsan",
+      "Təyyarə",
+      "Müəssisə",
+      "Avtomobil",
+      "Kompüter proqramı"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "İnsan"
+  },
+  {
+    "id": 41,
+    "question": "Təyyarənin cansız sistem hesab edilməsinin əsas meyarı hansıdır?",
+    "options": [
+      "Bioloji həyat əlamətlərinin olmaması",
+      "Fiziki olması",
+      "İnsan tərəfindən istifadə olunması",
+      "Mürəkkəb olması",
+      "Ətraf mühitlə əlaqədə olması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Bioloji həyat əlamətlərinin olmaması"
+  },
+  {
+    "id": 42,
+    "question": "Aşağıdakılardan hansı təbii sistemə nümunədir?",
+    "options": [
+      "Günəş sistemi",
+      "Müəssisə",
+      "İstehsalat xətti",
+      "İqtisadi sistem",
+      "İnsan tərəfindən yaradılmış idarəetmə sistemi"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Günəş sistemi"
+  },
+  {
+    "id": 43,
+    "question": "Statik və dinamik sistemləri fərqləndirən əsas meyar nədir?",
+    "options": [
+      "Ətraf mühitdəki dəyişikliklərə münasibətdə zamanla vəziyyətin dəyişməsi",
+      "Elementlərin fiziki və ya konseptual olması",
+      "Sistemin canlı və ya cansız olması",
+      "Sistemin məqsədinin olub-olmaması",
+      "Sistemin sadə və ya mürəkkəb olması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Ətraf mühitdəki dəyişikliklərə münasibətdə zamanla vəziyyətin dəyişməsi"
+  },
+  {
+    "id": 44,
+    "question": "Dinamik sistemlər haqqında hansı fikir düzgündür?",
+    "options": [
+      "Zaman ərzində dəyişir və geri-bildirim mexanizmi vasitəsilə dəyişən parametrlərə uyğunlaşırlar",
+      "Ətraf mühit dəyişdikdə heç vaxt dəyişmirlər",
+      "Yalnız təbii sistemlər dinamik ola bilər",
+      "Yalnız canlı sistemlər dinamikdir",
+      "Onların məqsədi olmur"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Zaman ərzində dəyişir və geri-bildirim mexanizmi vasitəsilə dəyişən parametrlərə uyğunlaşırlar"
+  },
+  {
+    "id": 45,
+    "question": "Müəssisənin dinamik sistem kimi qəbul edilməsinin səbəbi nədir?",
+    "options": [
+      "Tələb və təklif kimi dəyişən parametrlərə görə fəaliyyətini dəyişməsi və tənzimləməsi",
+      "Həmişə fiziki komponentlərdən ibarət olması",
+      "Ətraf mühitdən tamamilə təcrid olunması",
+      "Bioloji xüsusiyyətlərə malik olması",
+      "Yalnız bir elementdən ibarət olması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Tələb və təklif kimi dəyişən parametrlərə görə fəaliyyətini dəyişməsi və tənzimləməsi"
+  },
+  {
+    "id": 46,
+    "question": "Mücərrəd sistemlərin əsas xüsusiyyəti hansıdır?",
+    "options": [
+      "Bütün elementlərinin anlayışlardan ibarət olması",
+      "Yalnız fiziki obyektlərdən ibarət olması",
+      "Ətraf mühitlə enerji mübadiləsi aparması",
+      "Mütləq canlı olması",
+      "Çox sayda fiziki elementə malik olması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Bütün elementlərinin anlayışlardan ibarət olması"
+  },
+  {
+    "id": 47,
+    "question": "Sadə və mürəkkəb sistemlərin fərqləndirilməsində əsas meyar hansıdır?",
+    "options": [
+      "Sistemdəki ünsürlərin və əlaqələrin sayı",
+      "Sistemin canlı olub-olmaması",
+      "Sistemin təbii və ya süni olması",
+      "Sistemin məqsədinin olub-olmaması",
+      "Sistemin zamanla dəyişməsi"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sistemdəki ünsürlərin və əlaqələrin sayı"
+  },
+  {
+    "id": 48,
+    "question": "Maşın istehsalı ilə məşğul olan müəssisənin mürəkkəb sistem hesab edilməsinin səbəbi nədir?",
+    "options": [
+      "Çoxsaylı ünsür və əlaqələr ehtiva etməsi",
+      "Təbii sistem olması",
+      "Məqsədinin olmaması",
+      "Yalnız bir prosesdən ibarət olması",
+      "Statik olması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Çoxsaylı ünsür və əlaqələr ehtiva etməsi"
+  },
+  {
+    "id": 49,
+    "question": "Sənaye mühəndisliyinin materialda verilən tərifinə ən uyğun variant hansıdır?",
+    "options": [
+      "İnsan, xammal və digər avadanlığın dizaynı, inkişaf etdirilməsi və nizamlanması ilə məşğul olan mühəndislik sahəsi",
+      "Yalnız maşınların texniki təmiri ilə məşğul olan sahə",
+      "Yalnız müəssisələrin maliyyə fəaliyyətini öyrənən sahə",
+      "Yalnız proqram təminatı hazırlayan mühəndislik sahəsi",
+      "Yalnız məhsul istehsalının avtomatlaşdırılması ilə məşğul olan sahə"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "İnsan, xammal və digər avadanlığın dizaynı, inkişaf etdirilməsi və nizamlanması ilə məşğul olan mühəndislik sahəsi"
+  },
+  {
+    "id": 50,
+    "question": "Sənaye mühəndisliyinin sistem nəzəriyyəsi ilə sıx əlaqəsinin əsas səbəbi hansıdır?",
+    "options": [
+      "Sənaye mühəndisliyinin insan-maşın və digər komponentlərdən ibarət sistemləri elmi yanaşma ilə nəzərdən keçirməsi",
+      "Sənaye mühəndislərinin yalnız cansız sistemləri öyrənməsi",
+      "Sənaye mühəndisliyinin yalnız iqtisadi sistemlərlə işləməsi",
+      "Sistem nəzəriyyəsinin yalnız sənaye müəssisələrinə aid olması",
+      "Sənaye mühəndisliyində analiz və dizayn metodlarından istifadə edilməməsi"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sənaye mühəndisliyinin insan-maşın və digər komponentlərdən ibarət sistemləri elmi yanaşma ilə nəzərdən keçirməsi"
+  },
+  {
+    "id": 51,
+    "question": "MBSE yanaşmasında \"Single Source of Truth\" nəyi bildirir?",
+    "options": [
+      "Sistem haqqında bütün məlumatın toplandığı vahid rəqəmsal modeli",
+      "Çap olunmuş vahid layihə sənədini",
+      "Yalnız test nəticələri bazasını",
+      "Rəhbərlik təsdiqli yekun hesabatı",
+      "Yalnız sistemin istifadəçi təlimatını"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sistem haqqında bütün məlumatın toplandığı vahid rəqəmsal modeli"
+  },
+  {
+    "id": 52,
+    "question": "MBSE sənəd əsaslı dizayndan nə ilə fərqlənir?",
+    "options": [
+      "Sistemi bütün həyat dövrü boyu model ətrafında idarə etməyə imkan verir",
+      "Sənədlərin sayını artırır",
+      "Yalnız istismar mərhələsində tətbiq olunur",
+      "Riyazi modellərdən imtina edir",
+      "Sistemi yalnız bir dəfəlik quraşdırma zamanı idarə edir"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sistemi bütün həyat dövrü boyu model ətrafında idarə etməyə imkan verir"
+  },
+  {
+    "id": 53,
+    "question": "Şifahi (konseptual) modelin əsas xarakteri hansıdır?",
+    "options": [
+      "Kvalitativ (keyfiyyət) xarakterli",
+      "Kəmiyyət xarakterli",
+      "Yalnız kodla ifadə olunan",
+      "Yalnız simulyasiya əsaslı",
+      "Yalnız kəmiyyət göstəricilərindən ibarət"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Kvalitativ (keyfiyyət) xarakterli"
+  },
+  {
+    "id": 54,
+    "question": "Hansı konseptual modelin komponenti deyil?",
+    "options": [
+      "Kompüter proqram kodu",
+      "Modelin məqsədi",
+      "Giriş məlumatları",
+      "Fərziyyələr və sadələşdirmələr",
+      "heç biri"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Kompüter proqram kodu"
+  },
+  {
+    "id": 55,
+    "question": "Xəstəxana təcili yardım şöbəsi nümunəsində hansı çıxış göstəricisidir?",
+    "options": [
+      "Orta gözləmə müddəti",
+      "Həkim sayı",
+      "Otaq sayı",
+      "Xəstələrin gəliş tezliyi",
+      "Xəstələrin ümumi sayı"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Orta gözləmə müddəti"
+  },
+  {
+    "id": 56,
+    "question": "Xəstəxana təcili yardım şöbəsi nümunəsində \"avadanlıq nasazlığı nəzərə alınmır\" ifadəsi modelin hansı komponentinə aiddir?",
+    "options": [
+      "Fərziyyələr",
+      "Məqsəd",
+      "Giriş",
+      "Əlaqələr",
+      "Çıxış göstəriciləri"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Fərziyyələr"
+  },
+  {
+    "id": 57,
+    "question": "Şifahi modelin çatışmazlığı hansıdır?",
+    "options": [
+      "Özü-özlüyündə sınaqdan keçirilə bilməz",
+      "Hazırlanma xərci çox yüksəkdir",
+      "Mütəxəssis olmayanlar üçün anlaşılmazdır",
+      "Dəyişiklik etmək çox çətindir",
+      "Say nəticələrini və dəqiq proqnozları həmişə verir"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Özü-özlüyündə sınaqdan keçirilə bilməz"
+  },
+  {
+    "id": 58,
+    "question": "Şifahi model növbə nəzəriyyəsi ilə formallaşdırıldıqda hansı model tipinə çevrilir?",
+    "options": [
+      "Riyazi",
+      "Sxematik",
+      "Fiziki",
+      "Kvalitativ",
+      "heç biri"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Riyazi"
+  },
+  {
+    "id": 59,
+    "question": "Sxematik model şifahi və riyazi modellər arasında hansı rolu oynayır?",
+    "options": [
+      "Keçid mərhələsi",
+      "Onları əvəz edir",
+      "Yalnız test vasitəsi",
+      "Yalnız sənədləşdirmə vasitəsi",
+      "Sistemin bütün kəmiyyət göstəricilərini hesablayan mərhələ"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Keçid mərhələsi"
+  },
+  {
+    "id": 60,
+    "question": "Axın diaqramında qərar nöqtəsi hansı fiqurla göstərilir?",
+    "options": [
+      "Romb",
+      "Düzbucaqlı",
+      "Dairə",
+      "Ox",
+      "Üçbucaq"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Romb"
+  },
+  {
+    "id": 61,
+    "question": "Etkinlik dövrü diaqramında dairə nəyi bildirir?",
+    "options": [
+      "Gözləmə (passiv) vəziyyətini",
+      "Aktiv fəaliyyəti",
+      "Qərar nöqtəsini",
+      "Mərhələ nöqtəsini",
+      "Sistemdə aktiv xidmət prosesini"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Gözləmə (passiv) vəziyyətini"
+  },
+  {
+    "id": 62,
+    "question": "Etkinlik dövrü diaqramları hansı sahədə istifadə olunur?",
+    "options": [
+      "Diskret hadisə simulyasiyasında",
+      "Yalnız layihə büdcələşdirməsində",
+      "Şəbəkə təhlilində",
+      "Verilənlər bazası dizaynında",
+      "Yalnız proqram təminatının sınağında"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Diskret hadisə simulyasiyasında"
+  },
+  {
+    "id": 63,
+    "question": "Səbəb-nəticə dövrə diaqramları nəyi göstərir?",
+    "options": [
+      "Dəyişənlər arasında müsbət/mənfi əks-əlaqə dövrələrini",
+      "Tapşırıqların tarixlərini",
+      "Funksional parçalanmanı",
+      "Obyektlərin vəziyyətlərini",
+      "Layihənin başlanğıc və bitmə tarixlərini"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Dəyişənlər arasında müsbət/mənfi əks-əlaqə dövrələrini"
+  },
+  {
+    "id": 64,
+    "question": "IDEF0-da ICOM nə deməkdir?",
+    "options": [
+      "Inputs, Controls, Outputs, Mechanisms",
+      "Inputs, Constraints, Objects, Models",
+      "Interfaces, Controls, Operations, Metrics",
+      "Inputs, Conditions, Outputs, Methods",
+      "Inputs, Interfaces, Controls, Operations"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Inputs, Controls, Outputs, Mechanisms"
+  },
+  {
+    "id": 65,
+    "question": "IDEF0-un hansı üstünlüyü mürəkkəb sistemi kiçik alt proseslərə bölməyə imkan verir?",
+    "options": [
+      "Hierarxik parçalanma (top-down)",
+      "Statik struktur",
+      "Zaman oxu",
+      "Ehtimal paylanması",
+      "Ehtimal paylanmasının hesablanması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Hierarxik parçalanma (top-down)"
+  },
+  {
+    "id": 66,
+    "question": "Gantt diaqramında mərhələ nöqtəsi (milestone) necə göstərilir?",
+    "options": [
+      "Romb ilə",
+      "Dairə ilə",
+      "Şaquli xətlə",
+      "Zolaqla",
+      "Ox ilə"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Romb ilə"
+  },
+  {
+    "id": 67,
+    "question": "Gantt diaqramı əsasən nə üçün istifadə olunur?",
+    "options": [
+      "Planlaşdırma və monitorinq",
+      "Sistem modelləşdirməsi",
+      "Ehtimal hesablamaları",
+      "Simulyasiya",
+      "Yalnız risklərin riyazi hesablanması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Planlaşdırma və monitorinq"
+  },
+  {
+    "id": 68,
+    "question": "Kritik yol nədir?",
+    "options": [
+      "Layihənin ümumi müddətini müəyyən edən, sıfır sərbəstlikli fəaliyyətlər zənciri",
+      "Ən çox resurs sərf edən yol",
+      "Ən qısa fəaliyyətlər zənciri",
+      "Ən çox fəaliyyəti olan yol",
+      "Layihənin ən az resurs tələb edən zənciri"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Layihənin ümumi müddətini müəyyən edən, sıfır sərbəstlikli fəaliyyətlər zənciri"
+  },
+  {
+    "id": 69,
+    "question": "Sərbəstlik (slack/float) nədir?",
+    "options": [
+      "Fəaliyyətin layihəni gecikdirmədən gecikə biləcəyi müddət",
+      "Layihənin büdcə ehtiyatı",
+      "Fəaliyyətin minimum müddəti",
+      "Resurs ehtiyatı",
+      "Fəaliyyətin layihənin büdcəsini artırmadan gecikə biləcəyi xərc"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Fəaliyyətin layihəni gecikdirmədən gecikə biləcəyi müddət"
+  },
+  {
+    "id": 70,
+    "question": "PERT hər fəaliyyət üçün neçə qiymət istifadə edir?",
+    "options": [
+      "Üç (optimist, pessimist, ən mümkün)",
+      "İki (min, max)",
+      "Bir (sabit)",
+      "Dörd",
+      "Beş"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Üç (optimist, pessimist, ən mümkün)"
+  },
+  {
+    "id": 71,
+    "question": "PERT/CPM nümunəsində (A=3, B=4, C=2, D=5, E=2 gün) kritik yol hansıdır?",
+    "options": [
+      "A→B→D→E",
+      "A→C→E",
+      "A→B→C→E",
+      "A→C→D→E",
+      "A→E"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "A→B→D→E"
+  },
+  {
+    "id": 72,
+    "question": "PERT/CPM nümunəsində layihənin minimum ümumi müddəti neçə gündür?",
+    "options": [
+      "14",
+      "7",
+      "12",
+      "16",
+      "9"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "14"
+  },
+  {
+    "id": 73,
+    "question": "Birbaşa keçid yanaşmasının xarakteristikası hansıdır?",
+    "options": [
+      "Müəyyən gündə köhnədən yeniyə keçilir, geriyə dönüş çətindir",
+      "Köhnə və yeni sistem uzun müddət paralel işləyir",
+      "Sistem modul-modul tətbiq olunur",
+      "Yalnız bir alt çoxluqda sınaqdan keçirilir",
+      "Köhnə sistem dərhal silinir və geri qayıtmaq asandır"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Müəyyən gündə köhnədən yeniyə keçilir, geriyə dönüş çətindir"
+  },
+  {
+    "id": 74,
+    "question": "Paralel keçidin əsas çatışmazlığı nədir?",
+    "options": [
+      "Yüksək xərc",
+      "Riski çox yüksəkdir",
+      "Köhnə sistemə qayıtmaq mümkün deyil",
+      "Müqayisə imkanı yoxdur",
+      "Keçid müddətinin uzun olması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Yüksək xərc"
+  },
+  {
+    "id": 75,
+    "question": "Satış informasiya sistemində \"əvvəl satış uçotu modulu, sonra stok modulu\" hansı keçid yanaşmasıdır?",
+    "options": [
+      "Mərhələli",
+      "Birbaşa",
+      "Paralel",
+      "Pilot",
+      "Sistemin yalnız bir fabrikdə daimi saxlanması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Mərhələli"
+  },
+  {
+    "id": 76,
+    "question": "Konseptual modelin \"Məzmun\" komponenti nəyi müəyyən edir?",
+    "options": [
+      "Daxil edilən elementlərin əhatə dairəsini və detallılıq səviyyəsini",
+      "Modelin hansı qərarı dəstəklədiyini",
+      "Nəticə göstəricilərini",
+      "Qəbul edilən sadələşdirmələri",
+      "Sistemin icra olunduğu proqramlaşdırma dilini"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Daxil edilən elementlərin əhatə dairəsini və detallılıq səviyyəsini"
+  },
+  {
+    "id": 77,
+    "question": "Şifahi model və axın diaqramının əsas fərqi hansıdır?",
+    "options": [
+      "Axın diaqramı komponent və əlaqələri vizual göstərir, şifahi model təbii dillə izah edir",
+      "Şifahi model kəmiyyət, axın diaqramı keyfiyyət xarakterlidir",
+      "Axın diaqramı riyazi model sayılır",
+      "Şifahi modeldə heç bir fərziyyə olmur",
+      "Hər ikisi yalnız riyazi düsturlarla ifadə olunur"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Axın diaqramı komponent və əlaqələri vizual göstərir, şifahi model təbii dillə izah edir"
+  },
+  {
+    "id": 78,
+    "question": "Axın diaqramının hansı üstünlüyü kompüter modelinə keçidi asanlaşdırır?",
+    "options": [
+      "Hər simvol birbaşa koda və ya tənliyə çevrilə bilər",
+      "Simvollar standart deyil",
+      "Ehtimal paylanmalarını göstərməsi",
+      "Zaman oxuna malik olması",
+      "Hər simvolun rəngli olması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Hər simvol birbaşa koda və ya tənliyə çevrilə bilər"
+  },
+  {
+    "id": 79,
+    "question": "ACD notasiyasının əsas prinsipi hansıdır?",
+    "options": [
+      "Fəaliyyət yalnız bütün lazımi resurslar hazır olduqda baş verə bilər",
+      "Hər obyektin yalnız bir vəziyyəti ola bilər",
+      "Dairələr aktiv fəaliyyəti göstərir",
+      "Müştəri və kassir dövrləri heç vaxt kəsişmir",
+      "Fəaliyyət yalnız müştəri hazır olduqda, kassirdən asılı olmayaraq başlayır"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Fəaliyyət yalnız bütün lazımi resurslar hazır olduqda baş verə bilər"
+  },
+  {
+    "id": 80,
+    "question": "Bank filialı (sadə xidmət sistemi) ACD nümunəsində müştəri və kassir dövrləri harada kəsişir?",
+    "options": [
+      "Xidmət (aktiv fəaliyyət) düzbucaqlısında",
+      "Gözləmə dairəsində",
+      "Çıxış nöqtəsində",
+      "\"Boş\" vəziyyətində",
+      "Müştərinin sistemə daxil olduğu anda"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Xidmət (aktiv fəaliyyət) düzbucaqlısında"
+  },
+  {
+    "id": 81,
+    "question": "IDEF0-un \"Control\" oxu prosesə nəyi verir?",
+    "options": [
+      "Prosesə təsir edən qayda və məhdudiyyətləri",
+      "Prosesi icra edən resursları",
+      "Çevrilən girişləri",
+      "Yekun nəticələri",
+      "Fəaliyyətin yekun nəticələrini"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Prosesə təsir edən qayda və məhdudiyyətləri"
+  },
+  {
+    "id": 82,
+    "question": "IDEF0 nə üçün tez dəyişən (Agile) layihələrdə əlverişsiz sayıla bilər?",
+    "options": [
+      "Həddindən artıq rəsmi, ağır və sərtdir",
+      "Zaman faktoru çoxdur",
+      "Ehtimalı həddindən artıq nəzərə alır",
+      "Yalnız kiçik sistemlər üçündür",
+      "Dəyişiklikləri avtomatik və çevik idarə etdiyi üçün"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Həddindən artıq rəsmi, ağır və sərtdir"
+  },
+  {
+    "id": 83,
+    "question": "Aşağıdakılardan hansı IDEF0-un çatışmazlıqları arasında göstərilməyib?",
+    "options": [
+      "Resurs ehtiyatını avtomatik optimallaşdırmaması",
+      "Statik xarakter",
+      "Paralel hadisələri dinamik göstərməkdə zəiflik",
+      "Müasir alətlərlə inteqrasiya problemi",
+      "heç biri"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Resurs ehtiyatını avtomatik optimallaşdırmaması"
+  },
+  {
+    "id": 84,
+    "question": "Gantt diaqramı niyə \"statik plan\" sayılır?",
+    "options": [
+      "Təsadüfi dəyişkənliyi modelləşdirmədiyi və müddətləri sabit qəbul etdiyi üçün",
+      "Asılılıqları göstərmədiyi üçün",
+      "Zaman oxu olmadığı üçün",
+      "Yalnız kiçik layihələr üçün olduğu üçün",
+      "Tapşırıqların müddətlərini təsadüfi seçdiyi üçün"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Təsadüfi dəyişkənliyi modelləşdirmədiyi və müddətləri sabit qəbul etdiyi üçün"
+  },
+  {
+    "id": 85,
+    "question": "Gantt diaqramının qeyri-müəyyənlik çatışmazlığını tamamlamaq üçün hansı analiz istifadə olunur?",
+    "options": [
+      "PERT",
+      "CPM",
+      "IDEF0",
+      "ACD",
+      "Qərar ağacı"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "PERT"
+  },
+  {
+    "id": 86,
+    "question": "Gantt və şəbəkə (PERT/CPM) diaqramlarının ortaq çatışmazlığı hansıdır?",
+    "options": [
+      "Resurs məhdudiyyətlərini (eyni mühəndisin iki işdə olması) birbaşa əks etdirməmələri",
+      "Zaman oxunun olmaması",
+      "Asılılıqları göstərə bilməmələri",
+      "Yalnız kiçik layihələrə uyğun olmaları",
+      "Hər ikisinin asılılıqları göstərməməsi"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Resurs məhdudiyyətlərini (eyni mühəndisin iki işdə olması) birbaşa əks etdirməmələri"
+  },
+  {
+    "id": 87,
+    "question": "CPM ilə PERT-in əsas fərqi hansıdır?",
+    "options": [
+      "CPM müddətləri sabit qəbul edir, PERT qeyri-müəyyənliyi nəzərə alır",
+      "CPM üç, PERT bir qiymət istifadə edir",
+      "PERT kritik yolu tapmır",
+      "CPM yalnız Gantt üzərində qurulur",
+      "Həm CPM, həm də PERT həmişə üç qiymət istifadə edir"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "CPM müddətləri sabit qəbul edir, PERT qeyri-müəyyənliyi nəzərə alır"
+  },
+  {
+    "id": 88,
+    "question": "PERT/CPM nümunəsində (A=3, B=4, C=2, D=5, E=2 gün) C fəaliyyətinin sərbəstliyi neçə gündür?",
+    "options": [
+      "7",
+      "0",
+      "5",
+      "9",
+      "2 gün"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "7"
+  },
+  {
+    "id": 89,
+    "question": "PERT/CPM nümunəsində B fəaliyyəti 2 gün gecikərsə, layihənin ümumi müddəti neçə gün olar?",
+    "options": [
+      "16",
+      "14",
+      "15",
+      "18",
+      "20"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "16"
+  },
+  {
+    "id": 90,
+    "question": "PERT/CPM nümunəsində C fəaliyyəti 5 gün gecikərsə, layihənin müddəti necə dəyişər?",
+    "options": [
+      "14 gün olaraq qalır",
+      "19 gün olur",
+      "16 gün olur",
+      "12 gün olur",
+      "Layihə 9 günə tamamlanır"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "14 gün olaraq qalır"
+  },
+  {
+    "id": 91,
+    "question": "PERT/CPM nümunəsində C fəaliyyəti 9 gün gecikərsə, layihənin ümumi müddəti neçə gün olar?",
+    "options": [
+      "16",
+      "14",
+      "18",
+      "23",
+      "30"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "16"
+  },
+  {
+    "id": 92,
+    "question": "PERT/CPM nümunəsində D fəaliyyətinin müddəti 5-dən 3 günə endirilərsə, yeni ümumi müddət neçə gün olar?",
+    "options": [
+      "12",
+      "11",
+      "9",
+      "14",
+      "10 gün"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "12"
+  },
+  {
+    "id": 93,
+    "question": "Hansı vasitə \"Layihə minimum nə qədər müddətdə bitər, hansı işlər kritikdir?\" sualına cavab verir?",
+    "options": [
+      "Şəbəkə (PERT/CPM)",
+      "IDEF0",
+      "Etkinlik dövrü diaqramı",
+      "Gantt diaqramı",
+      "Gantt diaqramı"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Şəbəkə (PERT/CPM)"
+  },
+  {
+    "id": 94,
+    "question": "Birbaşa keçid niyə adətən böyük şirkətlərdə tətbiq edilmir?",
+    "options": [
+      "Geriyə dönüş çətin və xərcli, riski yüksək olduğu üçün",
+      "Ən ucuz və risksiz olduğu üçün",
+      "Köhnə sistem həmişə saxlanıldığı üçün",
+      "Modulları ayrı-ayrı tətbiq etmək mümkün olmadığı üçün",
+      "Çünki paralel sistemlərin saxlanma xərci yüksəkdir"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Geriyə dönüş çətin və xərcli, riski yüksək olduğu üçün"
+  },
+  {
+    "id": 95,
+    "question": "Paralel keçid niyə risk baxımından nisbətən təhlükəsizdir?",
+    "options": [
+      "Yeni sistem işləmədikdə köhnəyə qayıtmaq mümkündür",
+      "Yeni sistem sınaqdan keçmədən tətbiq olunur",
+      "Xərci ən aşağıdır",
+      "Yalnız bir hissədə tətbiq olunur",
+      "Çünki köhnə sistemin məlumatları avtomatik silinir"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Yeni sistem işləmədikdə köhnəyə qayıtmaq mümkündür"
+  },
+  {
+    "id": 96,
+    "question": "Mərhələli keçidin əsas mənfi cəhəti hansıdır?",
+    "options": [
+      "Keçid müddətinin uzun zamana yayılması",
+      "Geriyə dönüşün mümkün olmaması",
+      "İki sistemin eyni işi görməsi",
+      "Böyük sistemlər üçün yararsız olması",
+      "İki sistemin eyni vaxtda işləməsi əsas məqsədidir"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Keçid müddətinin uzun zamana yayılması"
+  },
+  {
+    "id": 97,
+    "question": "Yeni istehsalat sistemi 8 fabrikdə tətbiq ediləcək və əvvəlcə bir fabrikdə sınaqdan keçirilir. Bu hansı yanaşmadır?",
+    "options": [
+      "Pilot keçid",
+      "Mərhələli keçid",
+      "Paralel keçid",
+      "Birbaşa keçid",
+      "heç biri"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Pilot keçid"
+  },
+  {
+    "id": 98,
+    "question": "Pilot keçiddə köhnə sistemin vəziyyəti necədir?",
+    "options": [
+      "Adətən saxlanılır, lakin pilot hissədə aktiv olmur",
+      "Tamamilə silinir",
+      "Bütün təşkilatda aktiv işləyir",
+      "Yalnız pilotdan sonra saxlanılır",
+      "Köhnə sistem dərhal silinir və bərpa edilə bilmir"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Adətən saxlanılır, lakin pilot hissədə aktiv olmur"
+  },
+  {
+    "id": 99,
+    "question": "Bankda maliyyə əməliyyatları sistemi dəyişdirilir, köhnə sistem qismən səmərəlidir və uğursuzluq halında geri qayıdış vacibdir. Ən uyğun strategiya hansıdır?",
+    "options": [
+      "Paralel keçid",
+      "Birbaşa keçid",
+      "Pilot keçid",
+      "Yeni sistemi bir gündə tətbiq etmək",
+      "Mərhələli keçid"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Paralel keçid"
+  },
+  {
+    "id": 100,
+    "question": "Aşağıdakı cütlərdən hansı düzgün uyğunlaşdırılıb?",
+    "options": [
+      "Şəbəkə (PERT/CPM) – Layihə minimum nə qədər müddətdə bitər",
+      "IDEF0 – Qeyri-müəyyənlik altında optimal seçim",
+      "Etkinlik dövrü diaqramı – Layihənin minimum müddəti",
+      "Şifahi/Sxematik model – Fəaliyyət nəyi, kim/nə ilə çevirir",
+      "Gantt diaqramı – Qeyri-müəyyənlik altında optimal seçim"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Şəbəkə (PERT/CPM) – Layihə minimum nə qədər müddətdə bitər"
+  },
+  {
+    "id": 101,
+    "question": "Waterfall modelində proqram təminatının tələblər mərhələsində buraxılmış kritik funksional tələb (Functional Requirement) yalnız test mərhələsində aşkar olunarsa, layihəyə təsiri necə olur?",
+    "options": [
+      "Xərclər eksponensial olaraq artır və əvvəlki mərhələlərə qayıdış tələb olunur.",
+      "Xərclər dəyişmir, çünki xəta yalnız test qrupunun məsuliyyətindədir.",
+      "Xəta avtomatik olaraq növbəti iterasiyada düzələcək və əlavə xərc yaranmayacaq.",
+      "Layihə təsirlənmir, çünki tələblər sənədi artıq təsdiqlənmişdir.",
+      "Xərclər azalır və bütün mərhələlər yenidən işlənmədən davam edir."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Xərclər eksponensial olaraq artır və əvvəlki mərhələlərə qayıdış tələb olunur."
+  },
+  {
+    "id": 102,
+    "question": "Waterfall modelində SDD (Software Design Document) sənədinin rolu aşağıdakılardan hansıdır?",
+    "options": [
+      "Sistem arxitekturasını, modullar arası əlaqəni və məlumat axınını müəyyən etmək.",
+      "Müştərinin biznes tələblərini toplamaq və sənədləşdirmək.",
+      "Test ssenarilərini və qəbul meyarlarını müəyyən etmək.",
+      "Sistemin müştəri mühitində yerləşdirilməsi qaydalarını təsvir etmək.",
+      "Proqramın mənbə kodunu və test nəticələrini arxivləşdirmək."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sistem arxitekturasını, modullar arası əlaqəni və məlumat axınını müəyyən etmək."
+  },
+  {
+    "id": 103,
+    "question": "Müştərinin ilkin mərhələdə bütün tələbləri tam və aydın şəkildə formalaşdıra bilmədiyi layihədə Waterfall modelinin tətbiqi hansı əsas riski yaradır?",
+    "options": [
+      "Yekun proqramın müştərinin real ehtiyaclarına cavab verməməsi.",
+      "Layihənin həddindən artıq tez başa çatması.",
+      "Test mərhələsinin tamamilə lazımsız olması.",
+      "Komanda ölçüsünün avtomatik olaraq azalması.",
+      "Yekun məhsulun tələblərə uyğunluğu avtomatik təmin olunur."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Yekun proqramın müştərinin real ehtiyaclarına cavab verməməsi."
+  },
+  {
+    "id": 104,
+    "question": "V-Modelində Sistem Dizaynı (System Design) mərhələsinə doğrulama (verification/validation) baxımından hansı test fazası qarşı gəlir?",
+    "options": [
+      "System Testing",
+      "Unit Testing",
+      "Acceptance Testing",
+      "Smoke Testing",
+      "Regression Testing"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "System Testing"
+  },
+  {
+    "id": 105,
+    "question": "V-Modelini xətti Waterfall modelindən fərqləndirən ən mühüm konseptual üstünlük nədir?",
+    "options": [
+      "Test planlaşdırılmasının sol tərəfdəki təhlil və dizayn mərhələləri ilə paralel aparılması.",
+      "Kodlaşdırmanın tələblərin təhlilindən əvvəl aparılması.",
+      "Mərhələlərin sayının Waterfall modelindən daha az olması.",
+      "Müştəri iştirakının layihədən tamamilə çıxarılması.",
+      "Test yalnız proqram tam hazır olduqdan sonra planlaşdırılır."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Test planlaşdırılmasının sol tərəfdəki təhlil və dizayn mərhələləri ilə paralel aparılması."
+  },
+  {
+    "id": 106,
+    "question": "V-Modelində 'Acceptance Testing' (Qəbul testi) hansı sənəddəki meyar və tələblərə əsasən hazırlanır?",
+    "options": [
+      "Tələblərin təhlili mərhələsində hazırlanan tələblər sənədi (Requirements Analysis / SRS)",
+      "Low-Level Design sənədi",
+      "Mənbə kodu və sinif strukturu",
+      "Test hesabatı",
+      "Spiral dövrəsinin sonunda hazırlanmış prototipin istifadəçi təlimatı."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Tələblərin təhlili mərhələsində hazırlanan tələblər sənədi (Requirements Analysis / SRS)"
+  },
+  {
+    "id": 107,
+    "question": "Spiral modelində hər dövrənin (spiralın) ikinci kvadrantı nəyə həsr olunmuşdur?",
+    "options": [
+      "Alternativlərin qiymətləndirilməsi, risklərin müəyyən edilməsi və aradan qaldırılması (risk təhlili və prototipləşdirmə)",
+      "Məqsədlərin, alternativlərin və məhdudiyyətlərin müəyyən edilməsi",
+      "Məhsulun hazırlanması və dəyərləndirilməsi",
+      "Növbəti fazanın planlaşdırılması",
+      "Məhsulun yerləşdirilməsi və texniki dəstəyin təşkili."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Alternativlərin qiymətləndirilməsi, risklərin müəyyən edilməsi və aradan qaldırılması (risk təhlili və prototipləşdirmə)"
+  },
+  {
+    "id": 108,
+    "question": "Spiral modelinin tətbiqi zamanı layihənin uğuru əsasən hansı mütəxəssis resursunun professionallığından asılıdır?",
+    "options": [
+      "Risk təhlili üzrə ekspertlərin və analitiklərin",
+      "Verilənlər bazası administratorlarının",
+      "İstifadəçi interfeysi dizaynerlərinin",
+      "Sənədləşdirmə üzrə mütəxəssislərin",
+      "Layihənin marketinq strategiyasını hazırlayan mütəxəssislərin."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Risk təhlili üzrə ekspertlərin və analitiklərin"
+  },
+  {
+    "id": 109,
+    "question": "Layihənin ən riskli işlərinin əvvəldən müəyyən edilib risklərin aradan qaldırılması əsas prioritet olduqda, aşağıdakı modellərdən hansı seçilməlidir?",
+    "options": [
+      "Spiral Model",
+      "Waterfall Model",
+      "V-Model",
+      "Big Bang Model",
+      "Code-and-Fix Model"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Spiral Model"
+  },
+  {
+    "id": 110,
+    "question": "Aşağıdakı fikirlərdən hansı Waterfall modelinin əsas çatışmazlıqlarından birini DÜZGÜN ifadə edir?",
+    "options": [
+      "Prosesin erkən mərhələlərində risklərin qiymətləndirilməsi mexanizminin olmaması.",
+      "Hər mərhələdə yoxlama səhvlərin erkən aşkarlanmasını təmin edir.",
+      "Mərhələlər və fəaliyyətlər yaxşı müəyyən edilmişdir.",
+      "Müştəri tələbləri daim dəyişdikdə model asanlıqla uyğunlaşır.",
+      "Risklər yalnız layihənin son mərhələsində qiymətləndirilir."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Prosesin erkən mərhələlərində risklərin qiymətləndirilməsi mexanizminin olmaması."
+  },
+  {
+    "id": 111,
+    "question": "Spiral modeldə hər dövrənin sonuncu (4-cü) kvadrantı nəyi əhatə edir?",
+    "options": [
+      "Növbəti fazanın planının qurulmasını",
+      "Məqsədlərin və məhdudiyyətlərin müəyyən edilməsini",
+      "Risklərin qiymətləndirilməsini",
+      "Məhsulun hazırlanması və test edilməsini",
+      "Modulların daxili alqoritmlərinin yazılmasını."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Növbəti fazanın planının qurulmasını"
+  },
+  {
+    "id": 112,
+    "question": "V-Modelində 'Verification' (Doğrulama) və 'Validation' (Təsdiqləmə) konsepsiyaları arasındakı əsas fərq nədir?",
+    "options": [
+      "Verification 'Məhsulu düzgün hazırlayırıqmı?', Validation 'Düzgün məhsul hazırlayırıqmı?' sualına cavab verir.",
+      "Verification 'Düzgün məhsul hazırlayırıqmı?', Validation 'Məhsulu düzgün hazırlayırıqmı?' sualına cavab verir.",
+      "Verification yalnız kodun işə salınmasını, Validation isə sənədlərin yoxlanmasını ifadə edir.",
+      "Hər ikisi eyni mənanı verir və aralarında fərq yoxdur.",
+      "Məhsulu düzgün hazırlamaqla düzgün məhsul hazırlamaq eyni anlayışdır."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Verification 'Məhsulu düzgün hazırlayırıqmı?', Validation 'Düzgün məhsul hazırlayırıqmı?' sualına cavab verir."
+  },
+  {
+    "id": 113,
+    "question": "Aşağıdakılardan hansı V-Modeldə 'Verification' fəaliyyətlərinə daxil DEYİLDİR?",
+    "options": [
+      "İstifadəçi tərəfindən sistemin sınaqdan keçirilməsi (User Acceptance Testing)",
+      "Tələblərin nəzərdən keçirilməsi (Requirements Review)",
+      "Dizayn sənədlərinin nəzərdən keçirilməsi (Design Review)",
+      "Kodun nəzərdən keçirilməsi (Code Review)",
+      "heç biri"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "İstifadəçi tərəfindən sistemin sınaqdan keçirilməsi (User Acceptance Testing)"
+  },
+  {
+    "id": 114,
+    "question": "Waterfall modelində proqramlaşdırma (Coding) fəaliyyəti birbaşa hansı mərhələdən sonra başlayır?",
+    "options": [
+      "Proqram Dizaynı (Software Design)",
+      "Tələblərin toplanması və təhlili",
+      "Test",
+      "Sistemin yerləşdirilməsi",
+      "Layihənin yerləşdirilməsindən sonra."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Proqram Dizaynı (Software Design)"
+  },
+  {
+    "id": 115,
+    "question": "Spiral modeldə 'Prototipləşdirmə' əsasən hansı məqsəd üçün istifadə olunur?",
+    "options": [
+      "Qeyri-müəyyən tələblərdən qaynaqlanan riskləri azaltmaq və konsepsiyanı doğrulamaq üçün",
+      "Layihənin sənədləşdirmə xərclərini azaltmaq üçün",
+      "Test mərhələsini tamamilə ləğv etmək üçün",
+      "Müştərinin layihədə iştirakını məhdudlaşdırmaq üçün",
+      "Layihənin risklərini artırmaq və tələbləri daha qeyri-müəyyən etmək üçün."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Qeyri-müəyyən tələblərdən qaynaqlanan riskləri azaltmaq və konsepsiyanı doğrulamaq üçün"
+  },
+  {
+    "id": 116,
+    "question": "Aşağıdakılardan hansı Waterfall modelinin 'sərt' (rigid) olmasının əsas səbəbidir?",
+    "options": [
+      "Bir mərhələ bağlanandan sonra geri qayıtmağın çətin və baha olması",
+      "Mərhələlərin eyni anda paralel aparılması",
+      "Hər iterasiyadan sonra məhsulun müştəriyə təqdim olunması",
+      "Sənədləşdirməyə az vaxt sərf edilməsi",
+      "Hər mərhələnin paralel aparılması və sənədləşdirmənin ləğv edilməsi."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Bir mərhələ bağlanandan sonra geri qayıtmağın çətin və baha olması"
+  },
+  {
+    "id": 117,
+    "question": "Böyük həcmli, büdcəsi yüksək və çoxlu naməlum texniki riskləri olan bir müdafiə sənayesi layihəsi üçün ən uyğun SDLC modeli hansıdır?",
+    "options": [
+      "Spiral Model",
+      "Waterfall Model",
+      "Big Bang Model",
+      "V-Model",
+      "Code-and-Fix Model"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Spiral Model"
+  },
+  {
+    "id": 118,
+    "question": "V-Modelində Integration Testing (İnteqrasiya Testi) əsasən nəyi yoxlayır?",
+    "options": [
+      "Birləşdirilmiş modullar arasındakı interfeysləri və məlumat mübadiləsini",
+      "Ayrı-ayrı funksiya və metodların daxili məntiqini",
+      "Sistemin son istifadəçi tələblərinə uyğunluğunu",
+      "Yalnız proqramın istifadəçi interfeysinin vizual dizaynını",
+      "Yalnız istifadəçi interfeysinin rənglərini."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Birləşdirilmiş modullar arasındakı interfeysləri və məlumat mübadiləsini"
+  },
+  {
+    "id": 119,
+    "question": "V-Modelində Low-Level Design (aşağı səviyyəli dizayn) mərhələsinə hansı test növü qarşı gəlir?",
+    "options": [
+      "Unit Testing (Modul testi)",
+      "Integration Testing (İnteqrasiya testi)",
+      "System Testing (Sistem testi)",
+      "Acceptance Testing (Qəbul testi)",
+      "Smoke Testing"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Unit Testing (Modul testi)"
+  },
+  {
+    "id": 120,
+    "question": "Aşağıdakılardan hansı Waterfall modelinin TƏTBİQ OLUNA BİLƏCƏYİ ən yaxşı ssenaridir?",
+    "options": [
+      "Tələbləri tam aydın, texnologiyası tanış və dəyişməyən kiçik dövlət sistemi",
+      "Tələbləri daim dəyişən və naməlum texnologiyalı innovativ layihə",
+      "Müştərinin hər həftə yeni istəklər verdiyi, tələbləri qeyri-müəyyən layihə",
+      "Uzunmüddətli, mürəkkəb və yüksək riskli layihə",
+      "İstifadəçi tələblərinin daim dəyişdiyi və texnologiyanın naməlum olduğu layihə."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Tələbləri tam aydın, texnologiyası tanış və dəyişməyən kiçik dövlət sistemi"
+  },
+  {
+    "id": 121,
+    "question": "Spiral modeldə 'Risk Analizi' nəticəsində risk dərəcəsi həddindən artıq yüksək qiymətləndirilərsə, növbəti addım nə ola bilər?",
+    "options": [
+      "Layihə dərhal ləğv edilə və ya istiqaməti dəyişdirilə bilər.",
+      "Layihə heç bir dəyişiklik olmadan növbəti dövrəyə keçir.",
+      "Risk təhlili sonrakı dövrələrdə atlanır.",
+      "Risk avtomatik olaraq qəbul edilir və kodlaşdırma sürətləndirilir.",
+      "Layihə heç bir risk qiymətləndirilməsi aparılmadan dərhal yekunlaşdırılır."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Layihə dərhal ləğv edilə və ya istiqaməti dəyişdirilə bilər."
+  },
+  {
+    "id": 122,
+    "question": "Waterfall modelində proqram təminatı hazırlanarkən müştərinin rolu haqqında hansı ifadə DOĞRUDUR?",
+    "options": [
+      "Müştəri əsasən əvvəldə (tələblər) və sonda (qəbul) aktiv olur.",
+      "Müştəri bütün mərhələlərdə gündəlik olaraq aktiv iştirak edir.",
+      "Müştəri yalnız layihənin ortasında (dizayn mərhələsində) iştirak edir.",
+      "Müştəri layihədə heç bir mərhələdə iştirak etmir.",
+      "Müştəri yalnız kodlaşdırma zamanı gündəlik iştirak edir."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Müştəri əsasən əvvəldə (tələblər) və sonda (qəbul) aktiv olur."
+  },
+  {
+    "id": 123,
+    "question": "V-Modelində Low-Level Design (LLD) hansı detalları özündə əks etdirir?",
+    "options": [
+      "Modulun daxili alqoritmlərini, sinif strukturlarını və interfeys metodlarını",
+      "Sistemin ümumi arxitekturasını və modullar arası əlaqələri",
+      "Müştərinin biznes tələblərini və qəbul meyarlarını",
+      "Test ssenarilərini və test nəticələrinin hesabatını",
+      "Ümumi sistemin biznes məqsədlərini və qəbul meyarlarını."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Modulun daxili alqoritmlərini, sinif strukturlarını və interfeys metodlarını"
+  },
+  {
+    "id": 124,
+    "question": "Spiral modelin bir dövrəsi (loop) neçə əsas kvadrantdan ibarətdir?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "6",
+      "5"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "4"
+  },
+  {
+    "id": 125,
+    "question": "Aşağıdakılardan hansı V-Modelinin MƏNFİ cəhətlərinə aiddir?",
+    "options": [
+      "Tələblərin dəyişməsinə qarşı elastikliyin aşağı olması və adaptasiya çətinliyi",
+      "Hər mərhələdə yoxlama və təsdiqləmə fəaliyyətlərinin aparılması",
+      "Modelin sadə və başa düşülməsi asan olması",
+      "Qüsurların sonrakı mərhələlərə sızmasının qarşısının alınması",
+      "Testlərin yalnız layihənin sonunda aparılması və heç bir yoxlamanın edilməməsi."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Tələblərin dəyişməsinə qarşı elastikliyin aşağı olması və adaptasiya çətinliyi"
+  },
+  {
+    "id": 126,
+    "question": "Proqram təminatının sınaq mərhələsində 'Unit Testing' əsasən kim tərəfindən icra edilir?",
+    "options": [
+      "Proqramı yazan tərtibatçılar (Developers) tərəfindən",
+      "Müştəri tərəfindən",
+      "Biznes analitiki tərəfindən",
+      "Tərtibatçıların iştirakı olmadan müstəqil test komandası tərəfindən",
+      "Biznes analitiki tərəfindən."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Proqramı yazan tərtibatçılar (Developers) tərəfindən"
+  },
+  {
+    "id": 127,
+    "question": "Waterfall modelində layihənin gedişatı necə ölçülür və izlənilir?",
+    "options": [
+      "Tamamlanmış və təsdiqlənmiş sənədlər/mərhələlər (Milestones) vasitəsilə",
+      "Yazılmış kod sətirlərinin sayı ilə",
+      "Müştərinin hər həftə verdiyi rəylərin sayı ilə",
+      "Hər iterasiyanın sonunda hazırlanan prototiplərlə",
+      "Spiral dövrələrinin sayına görə."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Tamamlanmış və təsdiqlənmiş sənədlər/mərhələlər (Milestones) vasitəsilə"
+  },
+  {
+    "id": 128,
+    "question": "Spiral model haqqında təqdim edilən hansı mülahizə YANLIŞDIR?",
+    "options": [
+      "Xətti və tamamilə təkrarlanmayan bir struktura malikdir.",
+      "Risklərə əsaslanan proses modelidir.",
+      "Təkrarlanan (iterativ) dövrələrdən ibarətdir.",
+      "Ən riskli işlər əvvəldən görünür.",
+      "Model sipralvari işləyir və risk analizi əsas yer tutur."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Xətti və tamamilə təkrarlanmayan bir struktura malikdir."
+  },
+  {
+    "id": 129,
+    "question": "V-Modeldə Kodlaşdırma (Coding) mərhələsi hansı iki ana hissənin 'birləşmə nöqtəsində' yerləşir?",
+    "options": [
+      "Sol tərəfdəki Doğrulama (Verification/Dizayn) və sağ tərəfdəki Təsdiqləmə (Validation/Test)",
+      "Tələblərin təhlili və sistemin yerləşdirilməsi",
+      "Test planı və test hesabatı",
+      "Biznes tələbləri və müştəri qəbulu",
+      "Layihənin əvvəlindəki tələblər və dizayn sənədlərinin birləşmə nöqtəsində."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sol tərəfdəki Doğrulama (Verification/Dizayn) və sağ tərəfdəki Təsdiqləmə (Validation/Test)"
+  },
+  {
+    "id": 130,
+    "question": "Waterfall modelinin Test mərhələsində qüsurlar tərtibatçılar tərəfindən düzəldildikdən sonra tətbiqdə yeni qüsurların yaranıb-yaranmadığını yoxlamaq üçün hansı test növü aparılır?",
+    "options": [
+      "Reqressiya testi (Regression Testing)",
+      "Modul testi (Unit Testing)",
+      "Yük testi (Load Testing)",
+      "Qəbul testi (Acceptance Testing)",
+      "Smoke Testing"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Reqressiya testi (Regression Testing)"
+  },
+  {
+    "id": 131,
+    "question": "Waterfall modelini 1970-ci ildə təqdim etmiş alim kimdir?",
+    "options": [
+      "Winston Royce",
+      "Barry Boehm",
+      "Henry Gantt",
+      "Ivar Jacobson",
+      "heç biri"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Winston Royce"
+  },
+  {
+    "id": 132,
+    "question": "Spiral model ilk dəfə neçənci ildə və kim tərəfindən təklif olunmuşdur?",
+    "options": [
+      "1986, Barry Boehm",
+      "1970, Winston Royce",
+      "1986, Winston Royce",
+      "1970, Barry Boehm",
+      "1988, Henry Gantt"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "1986, Barry Boehm"
+  },
+  {
+    "id": 133,
+    "question": "Sistem Testi (System Testing) zamanı əsasən hansı keyfiyyət göstəriciləri yoxlanılır?",
+    "options": [
+      "Bütün sistemin tamlığı, təhlükəsizlik, performans və funksional tələbləri",
+      "Yalnız ayrı-ayrı funksiyaların daxili məntiqi",
+      "Yalnız modullar arasındakı interfeyslər",
+      "Yalnız istifadəçinin sistemdən subyektiv razılığı",
+      "Yalnız ayrı-ayrı modulların kod üslubu."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Bütün sistemin tamlığı, təhlükəsizlik, performans və funksional tələbləri"
+  },
+  {
+    "id": 134,
+    "question": "Spiral modeldə radial məsafə (mərkəzdən uzaqlaşma) nəyi ifadə edir?",
+    "options": [
+      "Artan xərcləri və layihəyə çəkilən ümumi kumulyativ xərci",
+      "Layihədə işləyən komandanın ölçüsünü",
+      "Layihənin hazırlıq faizini",
+      "Müştərinin razılıq səviyyəsini",
+      "Spiral dövrələrinin sayını və komandanın ölçüsünü."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Artan xərcləri və layihəyə çəkilən ümumi kumulyativ xərci"
+  },
+  {
+    "id": 135,
+    "question": "Spiral modeldə bucaq addımı (spiral boyunca fırlanma bucağı) nəyi təmsil edir?",
+    "options": [
+      "Hər fazada əldə edilən irəliləyişi və mərhələlərin ardıcıllığını",
+      "Layihənin ümumi büdcəsini",
+      "Komandanın ölçüsünü",
+      "Layihədəki risklərin sayını",
+      "Layihənin yalnız müştəri rəylərinin sayını.."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Hər fazada əldə edilən irəliləyişi və mərhələlərin ardıcıllığını"
+  },
+  {
+    "id": 136,
+    "question": "Waterfall modelinin hansı çatışmazlığı layihənin sonunda heç bir işlək proqramın olmaması riskinə gətirib çıxarır?",
+    "options": [
+      "Həyat dövrünün sonuna qədər heç bir işlək proqramın istehsal olunmaması",
+      "Mərhələlər arasında üst-üstə düşmənin olması",
+      "Hər mərhələdə yoxlamanın aparılması",
+      "Yalnız kiçik layihələrdə tətbiq olunması",
+      "İşlək proqramın hər mərhələnin sonunda mütləq təqdim olunması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Həyat dövrünün sonuna qədər heç bir işlək proqramın istehsal olunmaması"
+  },
+  {
+    "id": 137,
+    "question": "V-Modelində hər mərhələnin növbəti mərhələyə keçməzdən əvvəl sınaqdan keçirilməsinin əsas üstünlüyü nədir?",
+    "options": [
+      "Qüsurların sonrakı mərhələlərə sızmasının qarşısını alır.",
+      "Test qrupunun inkişafla paralel başlamasını ləğv edir.",
+      "Mərhələlərin üst-üstə düşməsinə imkan verir.",
+      "Müştərinin hər mərhələdə iştirakını təmin edir.",
+      "Qüsurların yalnız layihənin sonunda aşkarlanmasını təmin edir."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Qüsurların sonrakı mərhələlərə sızmasının qarşısını alır."
+  },
+  {
+    "id": 138,
+    "question": "Tələblərin dondurulması ('Requirement Freezing') anlayışı daha çox hansı model üçün xarakterikdir?",
+    "options": [
+      "Waterfall Model",
+      "İterativ Model",
+      "Spiral Model",
+      "Big Bang Model",
+      "Scrum Model"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Waterfall Model"
+  },
+  {
+    "id": 139,
+    "question": "V-Model tətbiq edilən layihədə Test Komandası layihəyə nə zaman daxil olur?",
+    "options": [
+      "Ən başda, Tələblərin təhlili (Requirements Analysis) mərhələsində",
+      "Yalnız kodlaşdırma mərhələsi başa çatdıqdan sonra",
+      "Yalnız sistemin yerləşdirilməsi mərhələsində",
+      "Layihə bitdikdən sonra, istismar zamanı",
+      "Yalnız proqramın yerləşdirilməsi başa çatdıqdan sonra."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Ən başda, Tələblərin təhlili (Requirements Analysis) mərhələsində"
+  },
+  {
+    "id": 140,
+    "question": "Spiral modelin 3-cü kvadrantında (Development and Testing) əsasən hansı işlər görülür?",
+    "options": [
+      "Kodun yazılması, modul testləri və nəzərdə tutulan versiyanın inkişafı",
+      "Məqsəd və məhdudiyyətlərin müəyyən edilməsi",
+      "Alternativlərin qiymətləndirilməsi və risklərin aradan qaldırılması",
+      "Növbəti fazanın planlaşdırılması",
+      "Yalnız risk hesabatının hazırlanması və kodlaşdırmanın dayandırılması."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Kodun yazılması, modul testləri və nəzərdə tutulan versiyanın inkişafı"
+  },
+  {
+    "id": 141,
+    "question": "Waterfall modelində layihənin hər bir fazası nə ilə yekunlaşmalıdır?",
+    "options": [
+      "Xüsusi formal sənəd və ya təsdiqlənmiş məhsul (Deliverable/Sign-off) ilə",
+      "Müştərinin şifahi razılığı ilə",
+      "Növbəti mərhələnin başlanmasından sonra aparılan yekun yoxlama ilə",
+      "Heç bir sənəd tələb olunmadan avtomatik keçidlə",
+      "Müştərinin şifahi razılığı ilə, sənədlər olmadan."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Xüsusi formal sənəd və ya təsdiqlənmiş məhsul (Deliverable/Sign-off) ilə"
+  },
+  {
+    "id": 142,
+    "question": "V-Modelində Architecture Design (Arxitektura Dizaynı, yüksək səviyyəli dizayn) mərhələsinə hansı test növü qarşı gəlir?",
+    "options": [
+      "Integration Testing (İnteqrasiya testi)",
+      "Unit Testing (Modul testi)",
+      "Acceptance Testing (Qəbul testi)",
+      "System Testing (Sistem testi)",
+      "Heç biri"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Integration Testing (İnteqrasiya testi)"
+  },
+  {
+    "id": 143,
+    "question": "Spiral modeldə 'Prototipləşdirmə' tətbiq edildikdən sonra ortaya çıxan ilkin nümunə necə adlanır?",
+    "options": [
+      "Prototip (konsepsiyanı doğrulamaq üçün ilkin nümunə – Proof of Concept, PoC)",
+      "Yekun məhsul (Release)",
+      "Test hesabatı",
+      "Tələblər spesifikasiyası (SRS)",
+      "Yekun məhsul (Release)"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Prototip (konsepsiyanı doğrulamaq üçün ilkin nümunə – Proof of Concept, PoC)"
+  },
+  {
+    "id": 144,
+    "question": "Tələblərin çox tez-tez dəyişdiyi dinamik layihələrdə Waterfall modelinin tətbiq edilməsi hansı nəticəyə gətirib çıxarır?",
+    "options": [
+      "Büdcənin aşılmasına, vaxt itkisinə və layihənin uğursuzluğuna",
+      "Layihənin vaxtından əvvəl və büdcədən az xərclə başa çatmasına",
+      "Tələb dəyişikliklərinin asanlıqla və ucuz qəbul edilməsinə",
+      "Test mərhələsinin ləğv edilməsinə",
+      "Layihənin vaxtından əvvəl və büdcədən kənarlaşmadan başa çatmasına."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Büdcənin aşılmasına, vaxt itkisinə və layihənin uğursuzluğuna"
+  },
+  {
+    "id": 145,
+    "question": "V-Modeldə mərhələlərin 'V' hərfi şəklində təsvir edilməsinin vizual mənası nədir?",
+    "options": [
+      "Sol tərəfdəki hər bir inkişaf fazası ilə sağ tərəfdəki test fazasının bir-birinə uyğunluğunu və paralelliyini göstərmək",
+      "Layihənin yalnız aşağıya doğru axdığını və geri qayıdışın olmadığını göstərmək",
+      "Mərhələlərin təkrarlanan dövrələrlə spiral şəklində irəlilədiyini göstərmək",
+      "Test fəaliyyətlərinin yalnız layihənin sonunda aparıldığını göstərmək",
+      "V hərfi inkişaf mərhələlərinin təkrarlanan spiral dövrələrini göstərir."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sol tərəfdəki hər bir inkişaf fazası ilə sağ tərəfdəki test fazasının bir-birinə uyğunluğunu və paralelliyini göstərmək"
+  },
+  {
+    "id": 146,
+    "question": "Spiral modeldə müştəri layihə prosesinə necə daxil edilir?",
+    "options": [
+      "Müştəri hər spiral dövrəsinin sonunda prototipi/məhsul versiyasını qiymətləndirir və rəy verir.",
+      "Müştəri yalnız layihənin əvvəlində tələbləri verir və sonra iştirak etmir.",
+      "Müştəri layihəyə heç daxil edilmir.",
+      "Müştəri yalnız son məhsulun təhvili zamanı iştirak edir.",
+      "Müştəri yalnız ikinci sipral dövründə iştirak edir və sonrakı dövrələrdə rəy vermir."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Müştəri hər spiral dövrəsinin sonunda prototipi/məhsul versiyasını qiymətləndirir və rəy verir."
+  },
+  {
+    "id": 147,
+    "question": "Waterfall modelinin 'Tələblərin toplanması və təhlili' mərhələsində tələblər kim tərəfindən toplanır və sənədləşdirilir?",
+    "options": [
+      "Biznes analitiki tərəfindən (müştəri ilə müzakirə əsasında)",
+      "Layihə meneceri tərəfindən",
+      "Test qrupu tərəfindən",
+      "Tərtibatçılar tərəfindən",
+      "Test qrupu tərəfindən, müştəri ilə əlaqə olmadan."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Biznes analitiki tərəfindən (müştəri ilə müzakirə əsasında)"
+  },
+  {
+    "id": 148,
+    "question": "Aşağıdakılardan hansı Waterfall modelində fazalar arası keçid şərtidir?",
+    "options": [
+      "Cari fazaya aid sənədlərin tam bitməsi və maraqlı tərəflər tərəfindən təsdiq olunması (Sign-off)",
+      "Növbəti fazanın işlərinin qismən əvvəlcədən başlanması",
+      "Müştərinin şifahi razılığı",
+      "Test qrupunun sayının artırılması",
+      "Fazalararası keçid üçün yalnız kodun bir hissəsinin yazılması kifayətdir."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Cari fazaya aid sənədlərin tam bitməsi və maraqlı tərəflər tərəfindən təsdiq olunması (Sign-off)"
+  },
+  {
+    "id": 149,
+    "question": "V-Modelini Spiral modeldən fərqləndirən ƏSAS cəhət hansıdır?",
+    "options": [
+      "V-Modelin xətti və ardıcıl, Spiral modelin isə daxili risk analizi olan iterativ (təkrarlanan) strukturda olması",
+      "V-Model risk analizinə əsaslanır, Spiral isə xətti ardıcıllıqla işləyir.",
+      "Hər ikisi tamamilə xətti və təkrarlanmayan modellərdir.",
+      "V-Model heç bir test fəaliyyəti ehtiva etmir, Spiral isə yalnız testdən ibarətdir.",
+      "Yalnız proqramın texniki xidmət və yenilənmə prosesi."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "V-Modelin xətti və ardıcıl, Spiral modelin isə daxili risk analizi olan iterativ (təkrarlanan) strukturda olması"
+  },
+  {
+    "id": 150,
+    "question": "Aşağıdakılardan hansı SDLC-nin (Software Development Life Cycle) ümumi fəlsəfəsini tam və düzgün ifadə edir?",
+    "options": [
+      "Proqram təminatının ideyadan başlayaraq layihələndirilməsi, yaradılması, test edilməsi və istismarı üzrə sistematik addımlar toplusu",
+      "Yalnız proqramın kodlaşdırılması prosesi",
+      "Yalnız layihənin test edilməsi və xətaların düzəldilməsi",
+      "Müştəri ilə müqavilənin bağlanması və maliyyə hesabatlarının aparılması",
+      "Heç biri"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Proqram təminatının ideyadan başlayaraq layihələndirilməsi, yaradılması, test edilməsi və istismarı üzrə sistematik addımlar toplusu"
+  },
+  {
+    "id": 151,
+    "question": "İterativ modeldə 'İnteqrasiya cəhənnəmi' (Integration Hell) anlayışı nəyi ifadə edir?",
+    "options": [
+      "Layihənin hissələrinin ayrı-ayrılıqda işləməsinə baxmayaraq, bir araya gətirildikdə birlikdə düzgün işləməməsini.",
+      "Test mərhələsində tapılan qüsurların sayının həddindən artıq olmasını.",
+      "Komanda üzvləri arasında işin düzgün bölünməməsini.",
+      "Layihənin büdcəsinin planlaşdırılandan çox aşmasını.",
+      "İnteqrasiya yalnız layihənin sonunda aparılır və bu, problemləri erkən aşkarlayır."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Layihənin hissələrinin ayrı-ayrılıqda işləməsinə baxmayaraq, bir araya gətirildikdə birlikdə düzgün işləməməsini."
+  },
+  {
+    "id": 152,
+    "question": "İterativ modeldə 'İnteqrasiya cəhənnəmi' vəziyyətinin qarşısı necə alınır?",
+    "options": [
+      "Hər iterasiyada bütün iştirakçıların işi tez-tez inteqrasiya edilir və problemlər layihənin sonunda deyil, ilkin mərhələsində aşkarlanır.",
+      "Bütün tələblər əvvəlcədən dondurulur və dəyişdirilmir.",
+      "İnteqrasiya yalnız layihənin sonunda bir dəfə aparılır.",
+      "Hər komanda öz hissəsini müstəqil işləyir və inteqrasiya etmir.",
+      "İlk mərhələdə bütün funksiyaları olan tam yekun məhsul təqdim edilir."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Hər iterasiyada bütün iştirakçıların işi tez-tez inteqrasiya edilir və problemlər layihənin sonunda deyil, ilkin mərhələsində aşkarlanır."
+  },
+  {
+    "id": 153,
+    "question": "İterativ modelin işləmə prinsipinə görə layihənin ilk mərhələsində nə istehsal olunur?",
+    "options": [
+      "Çox məhdud funksiyaları olan işləyə bilən versiya ən qısa zamanda istehsal olunur.",
+      "Bütün funksiyaları tam olan yekun məhsul hazırlanır.",
+      "Yalnız SRS və SDD sənədləri hazırlanır.",
+      "Yalnız risk təhlili hesabatı hazırlanır.",
+      "Yalnız tələblərin toplanması və yekun təhvil mərhələlərini."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Çox məhdud funksiyaları olan işləyə bilən versiya ən qısa zamanda istehsal olunur."
+  },
+  {
+    "id": 154,
+    "question": "İterativ model hansı mərhələləri təkrar-təkrar təkrarlayır?",
+    "options": [
+      "Planlaşdırma, dizayn, həyata keçirmə və sınaq mərhələlərini",
+      "Yalnız tələblərin toplanması və yerləşdirmə mərhələlərini",
+      "Yalnız risk təhlili və prototipləşdirməni",
+      "Yalnız kodlaşdırma və sənədləşdirməni",
+      "Bütün tələblərin əvvəlcədən tam müəyyən edilməsi və dəyişikliklərin qadağan olunması."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Planlaşdırma, dizayn, həyata keçirmə və sınaq mərhələlərini"
+  },
+  {
+    "id": 155,
+    "question": "Aşağıdakılardan hansı İterativ modelin çatışmazlığıdır?",
+    "options": [
+      "Bütün tələblər əvvəlcədən yığılmadığı üçün sistem arxitekturasına aid problemlər yarana bilər.",
+      "Tələblərin dəyişdirilməsinin daha sərfəli olması",
+      "Sistemdəki səhvlərin erkən müəyyən edilə bilməsi",
+      "Layihənin daim dəyişən ehtiyaclara asan uyğunlaşması",
+      "Layihənin bütün risklərinin əvvəlcədən tam aradan qaldırılmasına zəmanət verməsi."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Bütün tələblər əvvəlcədən yığılmadığı üçün sistem arxitekturasına aid problemlər yarana bilər."
+  },
+  {
+    "id": 156,
+    "question": "Big Bang modelinin mühazirədə vurğulanan ən xarakterik cəhəti hansıdır?",
+    "options": [
+      "Demək olar ki, heç bir planlaşdırma tələb etməməsi və SDLC-nin ən sadə modeli olması",
+      "Ətraflı planlaşdırma və hər mərhələdə formal təsdiq tələb etməsi",
+      "Risk təhlilinə əsaslanan dövrələrdən ibarət olması",
+      "Test fəaliyyətlərinin inkişafla paralel aparılması",
+      "Bütün mərhələlər üçün formal təsdiq və geniş planlaşdırma tələb etməsi."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Demək olar ki, heç bir planlaşdırma tələb etməməsi və SDLC-nin ən sadə modeli olması"
+  },
+  {
+    "id": 157,
+    "question": "Big Bang modeli hansı layihələr üçün uyğundur?",
+    "options": [
+      "Üzərində az adamın işlədiyi, müştəri tələblərinin dəqiq olmadığı və dəyişməyə davam etdiyi kiçik layihələr (öyrənmə məqsədli və ya yan layihələr)",
+      "Tələbləri tam aydın və dəyişməyən böyük dövlət layihələri",
+      "Çoxlu komandanın işlədiyi, büdcəsi yüksək təhlükəsizlik-kritik layihələr",
+      "Tələblərin əvvəlcədən tam sənədləşdirildiyi uzunmüddətli layihələr",
+      "Yalnız tələbləri dəyişməyən, böyük və yüksək riskli layihələr."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Üzərində az adamın işlədiyi, müştəri tələblərinin dəqiq olmadığı və dəyişməyə davam etdiyi kiçik layihələr (öyrənmə məqsədli və ya yan layihələr)"
+  },
+  {
+    "id": 158,
+    "question": "Big Bang modelinin tətbiqi zamanı ən böyük risk hansıdır?",
+    "options": [
+      "Son məhsulun faktiki müştəri tələblərinə cavab verməyə bilməsi",
+      "Hər mərhələdə həddindən artıq sənədləşdirmə aparılması",
+      "Test qrupunun həddindən artıq böyük olması",
+      "Mərhələlərin həddindən artıq çox təkrarlanması",
+      "Layihənin bütün tələblərə mütləq cavab verməsinə zəmanət verməsi."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Son məhsulun faktiki müştəri tələblərinə cavab verməyə bilməsi"
+  },
+  {
+    "id": 159,
+    "question": "Aşağıdakı hallardan hansında Big Bang modelinə müraciət etmək tövsiyə olunur?",
+    "options": [
+      "Məhsulun buraxılması və ya çatdırılma tarixi ilə bağlı ciddi təlimat olmadıqda",
+      "Tələblər tam aydın və dəyişməz olduqda",
+      "Layihə böyük və çoxlu komanda tərəfindən icra edildikdə",
+      "Məhsulun çatdırılma tarixi ciddi şəkildə müəyyən edildikdə",
+      "Tələblər tam aydın olduqda və çatdırılma tarixi sərt olduqda."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Məhsulun buraxılması və ya çatdırılma tarixi ilə bağlı ciddi təlimat olmadıqda"
+  },
+  {
+    "id": 160,
+    "question": "Aşağıdakılardan hansı Big Bang modelinin üstünlüklərinə aiddir?",
+    "options": [
+      "Heç bir planlaşdırma tələb olunmur, tətbiq etmək asandır və idarəedici heyətə ehtiyac yoxdur.",
+      "Hər mərhələdə ətraflı sənədləşdirmə və risk təhlili aparılır.",
+      "Layihə ciddi idarəedici heyət tərəfindən izlənilir.",
+      "Böyük layihələr üçün yüksək dərəcədə uyğundur.",
+      "Ətraflı planlaşdırma, çoxlu resurs və idarəedici heyət tələb edir."
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Heç bir planlaşdırma tələb olunmur, tətbiq etmək asandır və idarəedici heyətə ehtiyac yoxdur."
+  },
+  {
+    "id": 161,
+    "question": "Satış məbləğləri sistemə daxil edilir, aylıq satış tendensiyası hesablanır və rəhbərliyə təqdim olunur. Aylıq satış tendensiyası nə hesab olunur?",
+    "options": [
+      "İnformasiya",
+      "İlkin məlumat",
+      "Avadanlıq",
+      "Prosedur",
+      "Giriş əməliyyatı"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "İnformasiya"
+  },
+  {
+    "id": 162,
+    "question": "İnformasiya sisteminin beş əsas komponentindən hansının düzgün göstərildiyi variantı seçin.",
+    "options": [
+      "Avadanlıq, proqram təminatı, məlumat, prosedurlar, insanlar",
+      "Avadanlıq, internet, reklam, büdcə, satış",
+      "Proqram təminatı, marketinq, müştəri, məhsul, qiymət",
+      "Məlumat, gəlir, xərc, satış, mənfəət",
+      "Server, internet, maliyyə, strategiya, bazar"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Avadanlıq, proqram təminatı, məlumat, prosedurlar, insanlar"
+  },
+  {
+    "id": 163,
+    "question": "İnformasiya sistemi məlumatı qəbul edir, hesablayır və hesabat yaradır. Hesabatın yaradılması hansı əməliyyata aiddir?",
+    "options": [
+      "Çıxış",
+      "Giriş",
+      "Saxlama",
+      "Emal",
+      "Əks əlaqə"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Çıxış"
+  },
+  {
+    "id": 164,
+    "question": "Kiçik layihə komandası sənədləri paylaşır və tapşırıqları birgə idarə edir. Hansı sistem növü bu məqsədə daha uyğundur?",
+    "options": [
+      "Qrup informasiya sistemi",
+      "Qlobal informasiya sistemi",
+      "Fərdi informasiya sistemi",
+      "Dövlət səviyyəli informasiya sistemi",
+      "Yalnız fərdi kompüterdə işləyən lokal sistem"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Qrup informasiya sistemi"
+  },
+  {
+    "id": 165,
+    "question": "Müəssisənin maliyyə, kadr, istehsal və anbar məlumatlarının vahid sistemdə birləşdirilməsi üçün hansı həll daha uyğundur?",
+    "options": [
+      "ERP",
+      "TPS",
+      "KMS",
+      "Fərdi planlaşdırıcı",
+      "Sadə mətn redaktoru"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "ERP"
+  },
+  {
+    "id": 166,
+    "question": "Bankın gündəlik ödənişlərini qeydə alan və emal edən sistem hansı kateqoriyaya aiddir?",
+    "options": [
+      "TPS",
+      "EIS",
+      "DSS",
+      "KMS",
+      "MIS"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "TPS"
+  },
+  {
+    "id": 167,
+    "question": "Menecer müxtəlif alternativləri modelləşdirərək qərar qəbul etmək istəyir. Hansı sistem daha məqsədəuyğundur?",
+    "options": [
+      "DSS",
+      "TPS",
+      "HRM",
+      "CRM",
+      "IoT"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "DSS"
+  },
+  {
+    "id": 168,
+    "question": "Yuxarı rəhbərliyə təşkilatın strateji göstəricilərinin ümumi icmalını təqdim edən sistem hansıdır?",
+    "options": [
+      "EIS",
+      "TPS",
+      "SCM",
+      "OLTP",
+      "KMS"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "EIS"
+  },
+  {
+    "id": 169,
+    "question": "Müəssisədə şöbələr eyni müştəri haqqında fərqli və ziddiyyətli məlumatlardan istifadə edir. Bu problemin azaldılmasına ən birbaşa kömək edən yanaşma hansıdır?",
+    "options": [
+      "ERP vasitəsilə məlumatların vahid sistemdə inteqrasiyası",
+      "Hər şöbə üçün tamamilə ayrı verilənlər bazasının yaradılması",
+      "Məlumatların yalnız kağızda saxlanılması",
+      "Bütün avtomatlaşdırmanın dayandırılması",
+      "İstifadəçilərin sistemdən uzaqlaşdırılması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "ERP vasitəsilə məlumatların vahid sistemdə inteqrasiyası"
+  },
+  {
+    "id": 170,
+    "question": "Müxtəlif mənbələrdən toplanmış tarixi məlumatlar əsasında uzunmüddətli təhlil aparmaq üçün hansı həll daha uyğundur?",
+    "options": [
+      "Məlumat anbarı",
+      "TPS",
+      "Fərdi təqvim",
+      "Mətn redaktoru",
+      "Lokal kalkulyator"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Məlumat anbarı"
+  },
+  {
+    "id": 171,
+    "question": "Gündəlik əməliyyatların emalı ilə biznes analitikasını fərqləndirən düzgün uyğunluğu seçin.",
+    "options": [
+      "OLTP — gündəlik əməliyyatlar; OLAP — analitika",
+      "OLAP — gündəlik əməliyyatlar; OLTP — analitika",
+      "OLTP — biliklərin idarə edilməsi; OLAP — müştəri münasibətləri",
+      "OLTP — blokçeyn; OLAP — bulud",
+      "OLTP və OLAP eyni məqsədə xidmət edir"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "OLTP — gündəlik əməliyyatlar; OLAP — analitika"
+  },
+  {
+    "id": 172,
+    "question": "İnternet üzərindən hesablama gücü və yaddaş xidmətləri təqdim edilir. Təşkilat ilkin avadanlıq xərclərini azaltmaq istəyir. Hansı texnologiya bu məqsədə uyğundur?",
+    "options": [
+      "Bulud hesablamaları",
+      "Blokçeyn",
+      "CRM",
+      "KMS",
+      "TPS"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Bulud hesablamaları"
+  },
+  {
+    "id": 173,
+    "question": "Böyük verilənlərin “Velocity” xüsusiyyəti nəyi ifadə edir?",
+    "options": [
+      "Məlumatların yaranma və emal sürətini",
+      "Məlumatların iqtisadi dəyərini",
+      "Məlumatların etibarlılığını",
+      "Məlumatların müxtəlif formatlarda olmasını",
+      "Məlumatların ümumi həcmini"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Məlumatların yaranma və emal sürətini"
+  },
+  {
+    "id": 174,
+    "question": "Alqoritm əvvəlki məlumatları təhlil edərək müştərinin gələcək alış ehtimalını proqnozlaşdırır. Bu fəaliyyət hansı texnologiya ilə daha çox əlaqəlidir?",
+    "options": [
+      "Maşın öyrənməsi",
+      "Kağız arxivləşdirməsi",
+      "Əl ilə çeşidləmə",
+      "Sadə sənəd dövriyyəsi",
+      "Fiziki avadanlıq təmiri"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Maşın öyrənməsi"
+  },
+  {
+    "id": 175,
+    "question": "Temperatur sensorları məlumatları internet vasitəsilə mərkəzi sistemə ötürür. Bu nümunə hansı texnologiyaya aiddir?",
+    "options": [
+      "IoT",
+      "ERP",
+      "OLAP",
+      "CRM",
+      "KMS"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "IoT"
+  },
+  {
+    "id": 176,
+    "question": "Qeydlərin kriptoqrafik üsulla əlaqəli bloklarda saxlanması və sonradan dəyişdirilməsinin çətin olması hansı texnologiyanın xüsusiyyətidir?",
+    "options": [
+      "Blokçeyn",
+      "Bulud hesablamaları",
+      "Relyasiya verilənlər bazası",
+      "Mobil tətbiq",
+      "Məlumat anbarı"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Blokçeyn"
+  },
+  {
+    "id": 177,
+    "question": "Məlumatları cədvəllər şəklində saxlayan və SQL dilindən istifadə edən verilənlər bazası növü hansıdır?",
+    "options": [
+      "Relyasiya verilənlər bazası",
+      "NoSQL",
+      "Məlumat anbarı",
+      "IoT",
+      "Blokçeyn"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Relyasiya verilənlər bazası"
+  },
+  {
+    "id": 178,
+    "question": "Böyük proqram sistemi müstəqil, kiçik modullara bölünür və onlar standart interfeyslərlə əlaqələndirilir. Bu yanaşma hansıdır?",
+    "options": [
+      "Mikroxidmətlər arxitekturası",
+      "Əl ilə emal",
+      "Mərkəzləşdirilmiş arxivləşdirmə",
+      "Yalnız lokal hesablama",
+      "Kağız sənəd dövriyyəsi"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Mikroxidmətlər arxitekturası"
+  },
+  {
+    "id": 179,
+    "question": "CIA təhlükəsizlik modelində məlumatın icazəsiz dəyişdirilməməsi hansı prinsipdir?",
+    "options": [
+      "Bütövlük",
+      "Məxfilik",
+      "Əlçatanlıq",
+      "Miqyaslana bilmə",
+      "Mobillik"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Bütövlük"
+  },
+  {
+    "id": 180,
+    "question": "Sistemin istifadəçilər tərəfindən lazım olan vaxt əlçatan olması CIA modelinin hansı prinsipinə uyğundur?",
+    "options": [
+      "Əlçatanlıq",
+      "Məxfilik",
+      "Bütövlük",
+      "Qərəzlilik",
+      "İnteqrasiya"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Əlçatanlıq"
+  },
+  {
+    "id": 181,
+    "question": "İşçiyə saxta mesaj göndərilir və o, aldadılaraq giriş məlumatlarını daxil edir. Bu hadisə hansı təhlükəyə nümunədir?",
+    "options": [
+      "Fişinq",
+      "OLAP",
+      "Miqyaslana bilmə",
+      "Verilənlərin inteqrasiyası",
+      "Bulud yerləşdirməsi"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Fişinq"
+  },
+  {
+    "id": 182,
+    "question": "İnformasiya sisteminin yaradılması zamanı tələblərin düzgün müəyyən edilməsinə ən birbaşa cavabdeh olan mərhələ hansıdır?",
+    "options": [
+      "Sistem analizi",
+      "Dəstək",
+      "İstismar",
+      "Reklam",
+      "Arxivləşdirmə"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sistem analizi"
+  },
+  {
+    "id": 183,
+    "question": "Təşkilatda müştəri məlumatlarının toplanması və satış prosesinin idarə olunması üçün hansı sistem istifadə olunur?",
+    "options": [
+      "CRM",
+      "SCM",
+      "KMS",
+      "EIS",
+      "OLTP"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "CRM"
+  },
+  {
+    "id": 184,
+    "question": "Təchizat zəncirinin planlaşdırılması və izlənməsi hansı sistemin əsas funksiyasıdır?",
+    "options": [
+      "SCM",
+      "HRM",
+      "TPS",
+      "DSS",
+      "EIS"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "SCM"
+  },
+  {
+    "id": 185,
+    "question": "Təşkilatın bilik və təcrübəsinin toplanması və əməkdaşlar arasında paylaşılması üçün hansı sistem nəzərdə tutulur?",
+    "options": [
+      "KMS",
+      "CRM",
+      "ERP",
+      "TPS",
+      "OLTP"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "KMS"
+  },
+  {
+    "id": 186,
+    "question": "Bir müəssisədə satış əməliyyatları əvvəlcə TPS-də qeydə alınır, sonra məlumatlar idarəetmə hesabatlarında istifadə olunur və sonda rəhbərliyə ümumiləşdirilmiş göstəricilər təqdim edilir. Bu prosesin düzgün ardıcıllığı hansıdır?",
+    "options": [
+      "TPS → MIS/DSS → EIS",
+      "EIS → TPS → MIS",
+      "MIS → EIS → TPS",
+      "DSS → TPS → CRM",
+      "CRM → KMS → TPS"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "TPS → MIS/DSS → EIS"
+  },
+  {
+    "id": 187,
+    "question": "Bir təşkilatda proqram təminatı düzgün işləsə də, işçilər sistemdən istifadə qaydalarını bilmədikləri üçün layihə uğursuz olur. Bu vəziyyət hansı nəticəni dəstəkləyir?",
+    "options": [
+      "İnsan amili və prosedurlar sistemin uğurunda mühüm rol oynayır",
+      "İnformasiya sisteminin uğuru yalnız avadanlıqdan asılıdır",
+      "Proqram təminatının olması təlimi lazımsız edir",
+      "Bütün uğursuzluqlar şəbəkə nasazlığından yaranır",
+      "Sistemlərdə prosedurlara ehtiyac yoxdur"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "İnsan amili və prosedurlar sistemin uğurunda mühüm rol oynayır"
+  },
+  {
+    "id": 188,
+    "question": "Bir şirkətin müxtəlif şöbələri öz məlumat bazalarını saxlayır və eyni məlumat bir neçə dəfə daxil edilir. ERP tətbiqinin əsaslandırılması üçün ən uyğun səbəb hansıdır?",
+    "options": [
+      "Vahid məlumat mühiti yaratmaqla təkrarlanmanı və uyğunsuzluğu azaltmaq",
+      "Şöbələrin bir-biri ilə əlaqəsini tam kəsmək",
+      "Bütün əməliyyatları kağıza keçirmək",
+      "Məlumatların emalını dayandırmaq",
+      "Yalnız rəhbərliyə kompüter vermək"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Vahid məlumat mühiti yaratmaqla təkrarlanmanı və uyğunsuzluğu azaltmaq"
+  },
+  {
+    "id": 189,
+    "question": "Şirkət internet vasitəsilə resurslardan istifadə edir. Bu, ilkin investisiyanı azaltsa da, şirkəti xidmət provayderindən asılı vəziyyətə sala bilər. Bu vəziyyət hansı nəticəni göstərir?",
+    "options": [
+      "Bulud hesablamalarının üstünlükləri və riskləri birlikdə mövcuddur",
+      "Bulud texnologiyası heç bir risk daşımır",
+      "Bulud texnologiyası yalnız lokal kompüterdə işləyir",
+      "Bulud hesablamaları miqyaslanmanı mümkünsüz edir",
+      "Bulud xidmətləri yalnız məlumatların kağızda saxlanması üçündür"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Bulud hesablamalarının üstünlükləri və riskləri birlikdə mövcuddur"
+  },
+  {
+    "id": 190,
+    "question": "Müştəri davranışlarını proqnozlaşdırmaq üçün çox böyük həcmdə, müxtəlif formatlı və sürətlə yaranan məlumatlar təhlil edilir. Bu vəziyyət ən çox hansı anlayışla əlaqəlidir?",
+    "options": [
+      "Böyük verilənlər (Big Data)",
+      "Yalnız fərdi informasiya sistemi",
+      "Yalnız mətn redaktoru",
+      "Əl ilə sənəd dövriyyəsi",
+      "Yalnız HRM"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Böyük verilənlər (Big Data)"
+  },
+  {
+    "id": 191,
+    "question": "Süni intellekt modeli müəyyən istifadəçi qruplarına qarşı sistemli şəkildə qərəzli nəticələr verir. Mühazirədə bu, hansı problem kateqoriyasına daxildir?",
+    "options": [
+      "Süni intellektin etik problemləri",
+      "Yalnız avadanlıq nasazlığı",
+      "Yalnız şəbəkə sürəti",
+      "Məlumatların arxivləşdirilməsi",
+      "Buludun yerləşdirmə modeli"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Süni intellektin etik problemləri"
+  },
+  {
+    "id": 192,
+    "question": "Bir şəhərdə sayğaclar, nəqliyyat vasitələri və sensorlar internetə qoşularaq məlumat toplayır. Bu məlumatlar şəhər xidmətlərinin yaxşılaşdırılması üçün istifadə olunur. Hansı iki anlayış bu ssenariyə ən çox uyğundur?",
+    "options": [
+      "IoT və məlumatların təhlili",
+      "CRM və HRM",
+      "TPS və kağız arxiv",
+      "KMS və fərdi planlaşdırıcı",
+      "Yalnız blokçeyn və mətn redaktoru"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "IoT və məlumatların təhlili"
+  },
+  {
+    "id": 193,
+    "question": "Təşkilat gündəlik sifarişləri emal etməklə yanaşı, keçmiş satış məlumatları əsasında biznes tendensiyalarını təhlil etmək istəyir. Hansı uyğunluq doğrudur?",
+    "options": [
+      "OLTP gündəlik əməliyyatlar, OLAP isə analitik təhlil üçündür",
+      "OLAP gündəlik sifarişlər üçündür, OLTP strateji icmal üçündür",
+      "OLTP və OLAP yalnız işçi heyətinin idarə edilməsində istifadə olunur",
+      "OLTP yalnız blokçeyn, OLAP isə yalnız IoT üçündür",
+      "OLTP məlumatları heç vaxt saxlamır"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "OLTP gündəlik əməliyyatlar, OLAP isə analitik təhlil üçündür"
+  },
+  {
+    "id": 194,
+    "question": "İnformasiya sistemində yalnız səlahiyyətli şəxslərin məlumatı oxumasına icazə verilir, lakin məlumat icazəsiz dəyişdirilə bilir. Hansı təhlükəsizlik prinsipi pozulmuşdur?",
+    "options": [
+      "Bütövlük",
+      "Məxfilik",
+      "Əlçatanlıq",
+      "Miqyaslana bilmə",
+      "Mobillik"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Bütövlük"
+  },
+  {
+    "id": 195,
+    "question": "Sistem məlumatları icazəsiz dəyişikliklərdən qoruyur və məxfilik təmin edir, lakin server sıradan çıxdığı üçün istifadəçilər xidmətə daxil ola bilmirlər. CIA üçlüyündə hansı prinsip pozulub?",
+    "options": [
+      "Əlçatanlıq",
+      "Məxfilik",
+      "Bütövlük",
+      "Məlumat müxtəlifliyi",
+      "Qərəzsizlik"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Əlçatanlıq"
+  },
+  {
+    "id": 196,
+    "question": "Müəssisə yeni informasiya sistemini tətbiq edir, lakin işçilər dəyişikliklərə müqavimət göstərir və onların rəqəmsal bacarıqları zəifdir. Mühazirəyə əsasən hansı tədbirlər daha uyğundur?",
+    "options": [
+      "Sistemli analiz, maraqlı tərəflərin cəlb edilməsi və təlimlər",
+      "Layihəni təhlilsiz dərhal dayandırmaq",
+      "İşçiləri sistemdən tamamilə uzaqlaşdırmaq",
+      "Təhlükəsizlik tədbirlərini ləğv etmək",
+      "Bütün məlumatları ayrı-ayrı fayllara bölmək"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sistemli analiz, maraqlı tərəflərin cəlb edilməsi və təlimlər"
+  },
+  {
+    "id": 197,
+    "question": "Müəssisə bir neçə departamentin məlumatlarını birləşdirən, yüzlərlə və ya minlərlə istifadəçiyə xidmət göstərən və yüksək təhlükəsizlik tələb edən sistem qurur. Bu sistem miqyasına görə hansı qrupa aiddir?",
+    "options": [
+      "Müəssisə (korporativ)",
+      "Lokal",
+      "Fərdi",
+      "Sadə qrup",
+      "Şəxsi planlaşdırıcı"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Müəssisə (korporativ)"
+  },
+  {
+    "id": 198,
+    "question": "Milyonlarla istifadəçiyə ölkə və ya dünya səviyyəsində xidmət göstərən, paylanmış şəbəkələrə əsaslanan sistem hansı növdür?",
+    "options": [
+      "Qlobal informasiya sistemi",
+      "Lokal informasiya sistemi",
+      "Fərdi informasiya sistemi",
+      "Qrup informasiya sistemi",
+      "Kiçik şöbə sistemi"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Qlobal informasiya sistemi"
+  },
+  {
+    "id": 199,
+    "question": "Bir verilənlər bazası strukturlaşdırılmış cədvəllər və SQL istifadə edir. Digər baza isə sənəd, açar–qiymət və qraf modelləri kimi çevik modellər təklif edir. İkinci baza hansı növə aiddir?",
+    "options": [
+      "NoSQL",
+      "Relyasiya bazası",
+      "TPS",
+      "EIS",
+      "ERP"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "NoSQL"
+  },
+  {
+    "id": 200,
+    "question": "İnformasiya sistemində məlumatlar daxil edilir, emal olunur, nəticələr çıxarılır və nəticələr əsasında sistem tənzimlənir. Bu prosesdə sonuncu fəaliyyət hansı əməliyyatdır?",
+    "options": [
+      "Əks əlaqə",
+      "Giriş",
+      "Emal",
+      "Çıxış",
+      "Avadanlıq quraşdırılması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Əks əlaqə"
+  },
+  {
+    "id": 201,
+    "question": "Təşkilat sistem yükü artdıqca əlavə resurslar ayırır və istifadəçilərin müxtəlif cihazlardan xidmətə çıxışını təmin edir. Bu, hansı müasir İS xüsusiyyətləri ilə əlaqəlidir?",
+    "options": [
+      "Miqyaslana bilmə və mobillik",
+      "Yalnız məxfilik və bütövlük",
+      "Yalnız məlumatların arxivləşdirilməsi",
+      "Yalnız əl ilə emal",
+      "Yalnız sənəd çapı"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Miqyaslana bilmə və mobillik"
+  },
+  {
+    "id": 202,
+    "question": "Generativ süni intellektin digər tətbiqlərdən fərqləndirici imkanlarından biri hansıdır?",
+    "options": [
+      "Mətn, şəkil və kod yaratmaq",
+      "Yalnız serverləri fiziki olaraq birləşdirmək",
+      "Yalnız məlumatları kağıza köçürmək",
+      "Yalnız şəbəkə kabellərini idarə etmək",
+      "Yalnız cədvəlləri çap etmək"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Mətn, şəkil və kod yaratmaq"
+  },
+  {
+    "id": 203,
+    "question": "Bir təşkilat müştəri məlumatlarını idarə edir, təchizat zəncirini izləyir və daxili bilikləri paylaşır. Bu funksiyalar hansı sistemlərlə uyğunlaşdırılır?",
+    "options": [
+      "CRM, SCM və KMS",
+      "TPS, EIS və OLTP",
+      "IoT, OLAP və DDoS",
+      "HRM, HTML və CSS",
+      "Yalnız ERP"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "CRM, SCM və KMS"
+  },
+  {
+    "id": 204,
+    "question": "İnformasiya sisteminin yaradılması SDLC çərçivəsində planlaşdırma, analiz, layihələndirmə, implementasiya və dəstək mərhələlərindən keçir. Bu mərhələlərin əsas məqsədi nədir?",
+    "options": [
+      "Sistemin yaradılmasını mərhələli və sistemli şəkildə təşkil etmək",
+      "Bütün tələbləri nəzərə almadan proqramlaşdırmaya başlamaq",
+      "Təhlükəsizliyi sistemdən çıxarmaq",
+      "Yalnız avadanlıq almaq",
+      "İstifadəçiləri layihədən kənarlaşdırmaq"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sistemin yaradılmasını mərhələli və sistemli şəkildə təşkil etmək"
+  },
+  {
+    "id": 205,
+    "question": "Müasir informasiya sistemində müxtəlif proqramlar vahid məlumat mühitində birləşdirilir. Bu xüsusiyyət necə adlanır?",
+    "options": [
+      "İnteqrasiya",
+      "Fişinq",
+      "Qərəzlilik",
+      "OLTP",
+      "Məxfilik"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "İnteqrasiya"
+  },
+  {
+    "id": 206,
+    "question": "Azərbaycanda dövlət xidmətlərinin rəqəmsal şəkildə, vahid məkanda göstərilməsinə nümunə kimi hansı model qeyd olunur?",
+    "options": [
+      "ASAN xidmət",
+      "Salesforce",
+      "Apple Notes",
+      "Jira",
+      "NoSQL"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "ASAN xidmət"
+  },
+  {
+    "id": 207,
+    "question": "Təşkilat təhlükəsizliyi yalnız sistem istifadəyə verildikdən sonra nəzərə alır. Mühazirədəki yanaşmaya əsasən bu hansı səbəbdən düzgün deyil?",
+    "options": [
+      "Təhlükəsizlik layihələndirmə mərhələsindən nəzərə alınmalıdır",
+      "Təhlükəsizlik yalnız qlobal sistemlərə aiddir",
+      "Təhlükəsizlik yalnız məlumat anbarına lazımdır",
+      "Təhlükəsizlik işçilərlə əlaqəli deyil",
+      "Təhlükəsizlik sistemin əlçatanlığını həmişə aradan qaldırır"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Təhlükəsizlik layihələndirmə mərhələsindən nəzərə alınmalıdır"
+  },
+  {
+    "id": 208,
+    "question": "Aşağıdakı uyğunluqlardan hansı yanlışdır?",
+    "options": [
+      "DSS — yalnız gündəlik satışların qeydiyyatı",
+      "CRM — müştəri münasibətlərinin idarə edilməsi",
+      "SCM — təchizat zəncirinin idarə edilməsi",
+      "KMS — biliklərin idarə edilməsi",
+      "TPS — gündəlik əməliyyatların emalı"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "DSS — yalnız gündəlik satışların qeydiyyatı"
+  },
+  {
+    "id": 209,
+    "question": "Təşkilat qərarlarını intuisiya ilə deyil, təhlil edilmiş məlumatlar əsasında verməyə üstünlük verir. Bu yanaşma müasir informasiya sistemlərinin hansı xüsusiyyəti ilə əlaqəlidir?",
+    "options": [
+      "Məlumat mərkəzliliyi (data-driven yanaşma)",
+      "Yalnız lokal işləmə",
+      "Əl ilə məlumat daxil edilməsi",
+      "Kağız arxivləşdirməsi",
+      "Şəbəkənin ləğvi"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Məlumat mərkəzliliyi (data-driven yanaşma)"
+  },
+  {
+    "id": 210,
+    "question": "Təşkilat informasiya sisteminin tətbiqi zamanı yüksək ilkin xərclər, köhnə sistemlərlə inteqrasiya çətinliyi və məlumat keyfiyyəti problemləri ilə qarşılaşır. Mühazirəyə əsasən ən uyğun yanaşma hansıdır?",
+    "options": [
+      "Sistemli analiz, düzgün layihə idarəetməsi, maraqlı tərəflərin cəlb edilməsi və təlimlər",
+      "Bütün məlumatları yoxlamadan köçürmək",
+      "İşçilərin təlimini ləğv etmək",
+      "Bütün sistemləri bir-birindən ayırmaq",
+      "Təhlükəsizlik siyasətlərindən imtina etmək"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sistemli analiz, düzgün layihə idarəetməsi, maraqlı tərəflərin cəlb edilməsi və təlimlər"
+  },
+  {
+    "id": 211,
+    "question": "Layihə nədir?",
+    "options": [
+      "Məhdud müddətdə konkret məqsədə çatmaq və özünəməxsus nəticə yaratmaq üçün görülən fəaliyyətlər toplusu",
+      "Daimi təkrarlanan gündəlik iş",
+      "Məqsədi olmayan fəaliyyət",
+      "Yalnız maliyyə hesabatı",
+      "Son tarixi olmayan iş"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Məhdud müddətdə konkret məqsədə çatmaq və özünəməxsus nəticə yaratmaq üçün görülən fəaliyyətlər toplusu"
+  },
+  {
+    "id": 212,
+    "question": "Layihənin əsas xüsusiyyətlərindən biri hansıdır?",
+    "options": [
+      "Başlanğıc və bitmə vaxtının olması",
+      "Sonsuz davam etməsi",
+      "Resurs tələb etməməsi",
+      "Nəticənin olmaması",
+      "Həmişə təkrarlanması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Başlanğıc və bitmə vaxtının olması"
+  },
+  {
+    "id": 213,
+    "question": "Layihə hansı nəticəni yarada bilər?",
+    "options": [
+      "Məhsul, xidmət və ya konkret dəyişiklik",
+      "Yalnız şifahi razılaşma",
+      "Mütləq yalnız pul gəliri",
+      "Həmişə eyni gündəlik əməliyyat",
+      "Heç bir nəticə"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Məhsul, xidmət və ya konkret dəyişiklik"
+  },
+  {
+    "id": 214,
+    "question": "Layihələrin idarə edilməsi nədir?",
+    "options": [
+      "İşlərin planlaşdırılması, təşkili, icrası, izlənməsi və tamamlanması prosesi",
+      "Yalnız işə qəbul prosesi",
+      "Təkcə reklam fəaliyyəti",
+      "Yalnız yekun xərclərin hesablanması",
+      "Layihədən sonra bir dəfə yoxlama"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "İşlərin planlaşdırılması, təşkili, icrası, izlənməsi və tamamlanması prosesi"
+  },
+  {
+    "id": 215,
+    "question": "Layihə idarəetməsinin əsas məqsədi nədir?",
+    "options": [
+      "İşin vaxtında, büdcə daxilində və tələb olunan keyfiyyətdə görülməsi",
+      "Büdcəni mümkün qədər tez xərcləmək",
+      "Planlaşdırmadan imtina etmək",
+      "Müddəti məqsədsiz uzatmaq",
+      "Bütün qərarları gizlətmək"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "İşin vaxtında, büdcə daxilində və tələb olunan keyfiyyətdə görülməsi"
+  },
+  {
+    "id": 216,
+    "question": "Layihə idarəetməsinin faydası hansıdır?",
+    "options": [
+      "Riskləri əvvəlcədən görmək və təsirlərini azaltmaq",
+      "Bütün riskləri tamamilə yox etmək",
+      "Məsuliyyət bölgüsünü aradan qaldırmaq",
+      "Xərclərə nəzarəti ləğv etmək",
+      "İstifadəçi ehtiyaclarını nəzərə almamaq"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Riskləri əvvəlcədən görmək və təsirlərini azaltmaq"
+  },
+  {
+    "id": 217,
+    "question": "Layihənin həyat dövrünün ilk mərhələsi hansıdır?",
+    "options": [
+      "Başlanğıc",
+      "Bağlanış",
+      "İcra",
+      "Monitorinq və nəzarət",
+      "Yekun qiymətləndirmədən sonrakı mərhələ"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Başlanğıc"
+  },
+  {
+    "id": 218,
+    "question": "Planlaşdırma mərhələsində nə hazırlanır?",
+    "options": [
+      "İş, vaxt, büdcə və risk planı",
+      "Yalnız yekun hesabat",
+      "Yalnız reklam mətni",
+      "Bağlanış protokolu",
+      "Layihədən kənar satış planı"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "İş, vaxt, büdcə və risk planı"
+  },
+  {
+    "id": 219,
+    "question": "Monitorinq və nəzarət mərhələsində nə edilir?",
+    "options": [
+      "İrəliləyiş ölçülür, sapmalar düzəldilir",
+      "Məqsəd ilk dəfə müəyyən edilir",
+      "Bütün işlər dayandırılır",
+      "Komanda ləğv edilir",
+      "Yalnız yeni işçilər seçilir"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "İrəliləyiş ölçülür, sapmalar düzəldilir"
+  },
+  {
+    "id": 220,
+    "question": "Bağlanış mərhələsində nə baş verir?",
+    "options": [
+      "Nəticə təhvil verilir və öyrənilən dərslər qeydə alınır",
+      "Problem ilk dəfə müəyyən edilir",
+      "Tapşırıqların müddəti ilk dəfə təyin olunur",
+      "Bütün sənədlər silinir",
+      "Risklər nəzərə alınmır"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Nəticə təhvil verilir və öyrənilən dərslər qeydə alınır"
+  },
+  {
+    "id": 221,
+    "question": "Layihənin maraqlı tərəfləri kimlər ola bilər?",
+    "options": [
+      "Sifarişçi, istifadəçilər, rəhbərlik, təchizatçılar və tərəfdaşlar",
+      "Yalnız layihə meneceri",
+      "Yalnız avadanlıqlar",
+      "Yalnız layihədə iştirak etməyən şəxslər",
+      "Yalnız layihənin adı"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Sifarişçi, istifadəçilər, rəhbərlik, təchizatçılar və tərəfdaşlar"
+  },
+  {
+    "id": 222,
+    "question": "Sifarişçinin əsas rolu nə ola bilər?",
+    "options": [
+      "Tələbləri və prioritetləri bildirmək",
+      "Bütün texniki sınaqları təkbaşına aparmaq",
+      "Layihə sənədlərini silmək",
+      "Komandanı əvəz etmək",
+      "Riskləri gizlətmək"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Tələbləri və prioritetləri bildirmək"
+  },
+  {
+    "id": 223,
+    "question": "Layihə menecerinin əsas rolu hansıdır?",
+    "options": [
+      "Komandanın işini əlaqələndirmək və qərarları uzlaşdırmaq",
+      "Bütün işi təkbaşına görmək",
+      "Ünsiyyəti dayandırmaq",
+      "Riskləri sənədlərdən çıxarmaq",
+      "Yalnız loqo hazırlamaq"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Komandanın işini əlaqələndirmək və qərarları uzlaşdırmaq"
+  },
+  {
+    "id": 224,
+    "question": "Layihə meneceri əhatə dairəsi ilə bağlı nə edir?",
+    "options": [
+      "Hansı işlərin layihəyə daxil və xaric olduğunu aydınlaşdırır",
+      "Müddəti qeyri-müəyyən saxlayır",
+      "Tələbləri nəzərə almır",
+      "Büdcəni avtomatik ikiqat artırır",
+      "İstifadəçilərin iştirakını qadağan edir"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Hansı işlərin layihəyə daxil və xaric olduğunu aydınlaşdırır"
+  },
+  {
+    "id": 225,
+    "question": "Layihə planı nədir?",
+    "options": [
+      "Layihənin necə həyata keçiriləcəyini göstərən yol xəritəsi",
+      "İştirakçıların şəxsi maraqlarının siyahısı",
+      "Layihə ilə əlaqəsiz tarixi məlumat",
+      "Yalnız reklam mətni",
+      "Məqsədsiz fəaliyyətlərin siyahısı"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Layihənin necə həyata keçiriləcəyini göstərən yol xəritəsi"
+  },
+  {
+    "id": 226,
+    "question": "Əhatə dairəsi hansı suala cavab verir?",
+    "options": [
+      "Hansı işlər görüləcək?",
+      "Layihə loqosu hansı rəngdə olacaq?",
+      "İşçilərin hobbiləri nədir?",
+      "Hansı bayram keçiriləcək?",
+      "Təqdimat neçə rəngdən ibarət olacaq?"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Hansı işlər görüləcək?"
+  },
+  {
+    "id": 227,
+    "question": "Planlaşdırmanın faydası hansıdır?",
+    "options": [
+      "Resurs çatışmazlığını erkən aşkar etməyə kömək edir",
+      "Gecikməni həmişə sıfırlayır",
+      "Bütün dəyişiklikləri qadağan edir",
+      "Məsuliyyəti ləğv edir",
+      "Məqsədi gizli saxlayır"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Resurs çatışmazlığını erkən aşkar etməyə kömək edir"
+  },
+  {
+    "id": 228,
+    "question": "Gantt diaqramı nə üçün istifadə olunur?",
+    "options": [
+      "Tapşırıqları təqvim üzrə göstərmək və paralel/ardıcıl işləri izləmək üçün",
+      "Yalnız riskləri adlandırmaq üçün",
+      "Şəxsi xərcləri hesablamaq üçün",
+      "Məmnunluğu avtomatik ölçmək üçün",
+      "Layihə məqsədini əvəz etmək üçün"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Tapşırıqları təqvim üzrə göstərmək və paralel/ardıcıl işləri izləmək üçün"
+  },
+  {
+    "id": 229,
+    "question": "Kritik yol nədir?",
+    "options": [
+      "Gecikməsi layihənin ümumi bitmə tarixini gecikdirə bilən tapşırıqlar zənciri",
+      "Ən az əhəmiyyətli tapşırıqlar",
+      "Müddətə təsir etməyən işlər",
+      "Büdcənin yekun məbləği",
+      "İstifadəçi rəyləri"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Gecikməsi layihənin ümumi bitmə tarixini gecikdirə bilən tapşırıqlar zənciri"
+  },
+  {
+    "id": 230,
+    "question": "Risk nədir?",
+    "options": [
+      "Layihənin məqsədlərinə müsbət və ya mənfi təsir göstərə bilən qeyri-müəyyən hadisə",
+      "Heç bir təsiri olmayan mütləq hadisə",
+      "Yalnız layihə bitəndən sonra yaranan nəticə",
+      "Həmişə müsbət nəticə",
+      "Gündəlik komanda görüşü"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Layihənin məqsədlərinə müsbət və ya mənfi təsir göstərə bilən qeyri-müəyyən hadisə"
+  },
+  {
+    "id": 231,
+    "question": "Risk qiymətləndirilərkən nə nəzərə alınır?",
+    "options": [
+      "Ehtimal və təsir",
+      "Layihə adının uzunluğu",
+      "Təqdimatın rəngi",
+      "İşçilərin hobbiləri",
+      "Komandanın geyim qaydası"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Ehtimal və təsir"
+  },
+  {
+    "id": 232,
+    "question": "Riskə cavab üsulu hansıdır?",
+    "options": [
+      "Qarşısını almaq, azaltmaq, ötürmək və ya qəbul etmək",
+      "Onu qeydə almadan unutmaq",
+      "Hamıdan gizlətmək",
+      "Yalnız layihə bitəndən sonra qiymətləndirmək",
+      "Avtomatik olaraq layihəni bağlamaq"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Qarşısını almaq, azaltmaq, ötürmək və ya qəbul etmək"
+  },
+  {
+    "id": 233,
+    "question": "Əsas əməkdaşın ayrılması riskini azaltmaq üçün nə etmək olar?",
+    "options": [
+      "Bilikləri sənədləşdirmək və əvəzedici əməkdaş hazırlamaq",
+      "Sənədləri silmək",
+      "İşi nəzarətsiz saxlamaq",
+      "Bilikləri gizlətmək",
+      "Risk planını ləğv etmək"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Bilikləri sənədləşdirmək və əvəzedici əməkdaş hazırlamaq"
+  },
+  {
+    "id": 234,
+    "question": "Layihədə keyfiyyət nə deməkdir?",
+    "options": [
+      "Nəticənin razılaşdırılmış tələblərə və istifadəçi ehtiyaclarına uyğunluğu",
+      "Ən bahalı variantın seçilməsi",
+      "Yoxlamasız sürətli icra",
+      "Yalnız təqdimatın görünüşü",
+      "İstifadəçi ehtiyaclarını nəzərə almamaq"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Nəticənin razılaşdırılmış tələblərə və istifadəçi ehtiyaclarına uyğunluğu"
+  },
+  {
+    "id": 235,
+    "question": "Keyfiyyətin idarə edilməsində hansı addım var?",
+    "options": [
+      "Standart və meyarları müəyyən etmək",
+      "Sınaqları ləğv etmək",
+      "Səhvləri gizlətmək",
+      "İstifadəçi tələblərini nəzərə almamaq",
+      "Yalnız sonda ilk dəfə plan qurmaq"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Standart və meyarları müəyyən etmək"
+  },
+  {
+    "id": 236,
+    "question": "Keyfiyyət nə vaxt təmin edilməlidir?",
+    "options": [
+      "İşin bütün mərhələlərində",
+      "Yalnız son gün",
+      "Yalnız layihədən əvvəl",
+      "Büdcə bitəndən sonra",
+      "Yalnız şikayət gələndə"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "İşin bütün mərhələlərində"
+  },
+  {
+    "id": 237,
+    "question": "Aydın kommunikasiya nəyi təmin edir?",
+    "options": [
+      "Komandanın eyni məlumatı başa düşməsini və qərarların vaxtında verilməsini",
+      "Məlumatların yayılmamasını",
+      "Qərarların gecikdirilməsini",
+      "Faktlardan uzaq hesabatları",
+      "Məsul şəxslərin olmamasını"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Komandanın eyni məlumatı başa düşməsini və qərarların vaxtında verilməsini"
+  },
+  {
+    "id": 238,
+    "question": "Rəsmi kommunikasiya nümunəsi hansıdır?",
+    "options": [
+      "Status hesabatı, protokol, qərar və dəyişiklik qeydləri",
+      "Təsadüfi dəhliz söhbəti",
+      "Şəxsi hobbilər barədə müzakirə",
+      "Layihə ilə əlaqəsiz mesajlar",
+      "Sənədləşdirilməmiş fərziyyələr"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Status hesabatı, protokol, qərar və dəyişiklik qeydləri"
+  },
+  {
+    "id": 239,
+    "question": "Waterfall hansı halda daha uyğundur?",
+    "options": [
+      "Tələblər əvvəlcədən sabit olduqda",
+      "Tələblər hər gün köklü dəyişdikdə",
+      "Mərhələlər müəyyən edilmədikdə",
+      "İşlər təsadüfi aparıldıqda",
+      "Layihənin məqsədi bilinmədikdə"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "Tələblər əvvəlcədən sabit olduqda"
+  },
+  {
+    "id": 240,
+    "question": "Agile metodologiyasının xüsusiyyəti hansıdır?",
+    "options": [
+      "İşin kiçik hissələrə bölünməsi, müntəzəm rəy və təkmilləşdirmə",
+      "Bütün mərhələlərin sərt və dəyişməz olması",
+      "İstifadəçi rəyinin qəbul edilməməsi",
+      "Yalnız sonda bir dəfə yoxlama",
+      "Dəyişikliklərin qadağan olunması"
+    ],
+    "correctIndex": 0,
+    "correctAnswer": "İşin kiçik hissələrə bölünməsi, müntəzəm rəy və təkmilləşdirmə"
+  }
+]

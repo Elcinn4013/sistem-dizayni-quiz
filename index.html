@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sistem Dizaynı — İmtahan Test Portalı</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- App Header -->
+  <header class="app-header">
+    <div class="brand" id="btn-home-brand" title="Əsas səhifəyə qayıt">
+      <div class="brand-badge">SD</div>
+      <div class="brand-text">
+        <h1>Sistem Dizaynı</h1>
+        <p>İmtahan Test Portalı</p>
+      </div>
+    </div>
+    <div class="header-actions">
+      <button class="btn btn-outline" id="btn-open-bank-nav" title="Bütün suallar bazasını nəzərdən keçirin">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/><path d="M6 6h10"/><path d="M6 10h10"/></svg>
+        <span>Sual Bazası (240)</span>
+      </button>
+      <button class="btn-icon" id="theme-toggle-btn" title="Gecə/Gündüz rejimi">
+        <svg id="theme-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- Main Content Area -->
+  <main class="main-content">
+
+    <!-- 1. SETUP / CONFIGURATION SCREEN -->
+    <section id="screen-setup" class="view-screen active">
+      <div class="page-intro">
+        <h2>Test Parametrləri</h2>
+        <p>240 rəsmi imtahan sualı əsasında fərdiləşdirilmiş test yaradın. Cavabların ardıcıllığı hər dəfə avtomatik qarışdırılır.</p>
+        
+        <div class="stats-row">
+          <div class="stat-item">
+            <div class="val">240</div>
+            <div class="lbl">Ümumi Sual Bazası</div>
+          </div>
+          <div class="stat-item">
+            <div class="val">50</div>
+            <div class="lbl">Standart Test Sayı</div>
+          </div>
+          <div class="stat-item">
+            <div class="val">A, B, C, D, E</div>
+            <div class="lbl">Qarışıq Variantlar</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Settings Card -->
+      <div class="card">
+        <div class="form-group">
+          <label class="form-label">Sual Aralığı</label>
+          <div class="pill-group">
+            <button type="button" class="pill-btn range-preset-btn active" data-start="1" data-end="240">Bütün Baza (1 – 240)</button>
+            <button type="button" class="pill-btn range-preset-btn" data-start="1" data-end="50">1 – 50</button>
+            <button type="button" class="pill-btn range-preset-btn" data-start="51" data-end="100">51 – 100</button>
+            <button type="button" class="pill-btn range-preset-btn" data-start="101" data-end="150">101 – 150</button>
+            <button type="button" class="pill-btn range-preset-btn" data-start="151" data-end="200">151 – 200</button>
+            <button type="button" class="pill-btn range-preset-btn" data-start="201" data-end="240">201 – 240</button>
+          </div>
+
+          <div class="custom-range-row">
+            <div class="input-field">
+              <label for="range-start">Başlanğıc:</label>
+              <input type="number" id="range-start" min="1" max="240" value="1">
+            </div>
+            <span style="color:var(--muted-foreground); font-size:0.875rem;">—</span>
+            <div class="input-field">
+              <label for="range-end">Son:</label>
+              <input type="number" id="range-end" min="1" max="240" value="240">
+            </div>
+          </div>
+          <div id="range-count-badge" class="range-info-text">Seçilmiş aralıqda 240 sual mövcuddur (Sual 1 – 240)</div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Sual Sayı</label>
+          <div class="pill-group">
+            <button type="button" class="pill-btn count-preset-btn active" data-count="50">50 sual</button>
+            <button type="button" class="pill-btn count-preset-btn" data-count="30">30 sual</button>
+            <button type="button" class="pill-btn count-preset-btn" data-count="20">20 sual</button>
+            <button type="button" class="pill-btn count-preset-btn" data-count="10">10 sual</button>
+            <button type="button" class="pill-btn count-preset-btn" data-count="all">Aralıqdakı bütün suallar</button>
+          </div>
+          <div style="margin-top: 0.6rem; display: flex; align-items: center; gap: 0.5rem;">
+            <span style="font-size: 0.8125rem; color: var(--muted-foreground);">Fərdi say:</span>
+            <input type="number" id="custom-count" min="1" max="240" value="50" style="width: 80px; height: 2rem; border-radius: var(--radius); border: 1px solid var(--border); background: var(--background); color: var(--foreground); font-weight: 500; text-align: center; font-size: 0.875rem;">
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">İmtahan Formatı</label>
+          <div class="mode-grid">
+            <div class="mode-item active" data-mode="practice">
+              <div class="mode-title">
+                <span>Təlim Rejimi</span>
+                <span class="badge">Məşq</span>
+              </div>
+              <p class="mode-desc">Variantı seçən kimi dərhal doğru və ya səhv olduğunu göstərir. Hazırlıq üçün nəzərdə tutulub.</p>
+            </div>
+
+            <div class="mode-item" data-mode="exam">
+              <div class="mode-title">
+                <span>Sınaq İmtahanı</span>
+                <span class="badge">Taymer</span>
+              </div>
+              <p class="mode-desc">Real imtahan şərtləri. Nəticələr və səhvlərin siyahısı yalnız testi yekunlaşdırdıqda göstərilir.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Timer Setting Row -->
+        <div id="timer-settings-row" class="toggle-item" style="display: none;">
+          <div class="toggle-text">
+            <h4>İmtahan Taymeri</h4>
+            <p>Müəyyən edilmiş müddət üzrə geri sayım aparılır</p>
+          </div>
+          <div style="display: flex; align-items: center; gap: 0.5rem;">
+            <input type="number" id="timer-minutes" min="5" max="180" value="50" style="width: 65px; height: 2rem; border-radius: var(--radius); border: 1px solid var(--border); background: var(--background); color: var(--foreground); text-align: center; font-size: 0.875rem;">
+            <span style="font-size: 0.8125rem; color: var(--muted-foreground);">dəqiqə</span>
+            <label class="shadcn-switch">
+              <input type="checkbox" id="switch-timer" checked>
+              <span class="switch-slider"></span>
+            </label>
+          </div>
+        </div>
+
+        <!-- Instant Feedback Toggle in Setup -->
+        <div class="toggle-item">
+          <div class="toggle-text">
+            <h4>Düz / Səhv cavabı dərhal göstər</h4>
+            <p>İşarələdiyiniz variantın doğruluğunu anında yoxlayır (Test zamanı da dəyişdirilə bilər)</p>
+          </div>
+          <label class="shadcn-switch">
+            <input type="checkbox" id="switch-instant-feedback" checked>
+            <span class="switch-slider"></span>
+          </label>
+        </div>
+
+        <div style="margin-top: 1.5rem;">
+          <button type="button" class="btn btn-primary" id="btn-start-quiz" style="width: 100%; height: 2.75rem; font-size: 0.9375rem;">
+            Testə başla
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- 2. QUIZ RUNNER SCREEN -->
+    <section id="screen-quiz" class="view-screen">
+      <!-- Quiz Top Bar -->
+      <div class="quiz-header-bar">
+        <div class="quiz-meta" id="quiz-header-meta">
+          <span class="badge" id="q-num-tag">Sual 1 / 50</span>
+          <span class="badge badge-outline" id="q-orig-num-tag" title="PDF sənədindəki baza nömrəsi">№ 1</span>
+        </div>
+
+        <div class="quiz-controls-right">
+          <label class="instant-checkbox-label" title="İşarələdiyiniz variantın düz və ya səhv olduğunu anında göstər">
+            <input type="checkbox" id="quiz-instant-check" checked>
+            <span>Düz/Səhvi dərhal göstər</span>
+          </label>
+          <button type="button" class="btn btn-outline" id="btn-flag-question" style="height: 2rem; font-size: 0.775rem;">
+            <span id="flag-text">İşarələ</span>
+          </button>
+          <div class="timer-badge" id="quiz-timer-box" style="display:none;">
+            <span id="quiz-timer-text">50:00</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Progress bar -->
+      <div class="progress-track">
+        <div class="progress-fill" id="progress-bar-fill" style="width: 2%;"></div>
+      </div>
+
+      <!-- Question Card -->
+      <div class="card">
+        <div class="question-text" id="question-text">Sual yüklənir...</div>
+
+        <!-- Options Container -->
+        <div class="options-list" id="options-container">
+          <!-- Rendered dynamically -->
+        </div>
+
+        <!-- Practice Feedback Container -->
+        <div id="practice-feedback" class="feedback-banner" style="display: none;"></div>
+      </div>
+
+      <!-- Navigation Bar -->
+      <div class="quiz-nav-row">
+        <button type="button" class="btn btn-outline" id="btn-prev">
+          Əvvəlki
+        </button>
+
+        <button type="button" class="btn btn-outline" id="btn-open-palette">
+          Suallar siyahısı
+        </button>
+
+        <div class="quiz-nav-group">
+          <button type="button" class="btn btn-outline" id="btn-next">
+            Növbəti
+          </button>
+          <button type="button" class="btn btn-primary" id="btn-finish-quiz">
+            Testi bitir
+          </button>
+        </div>
+      </div>
+
+      <div style="text-align: center; margin-top: 1.25rem; font-size: 0.75rem; color: var(--muted-foreground);">
+        Qısayollar: Variant seçmək üçün 1-5 və ya A-E, növbəti üçün →, əvvəlki üçün ←, işarələmək üçün F
+      </div>
+    </section>
+
+    <!-- 3. RESULTS & REVIEW SCREEN -->
+    <section id="screen-result" class="view-screen">
+      <div class="result-box">
+        <div class="score-display">
+          <span class="score-number" id="result-score-num">0</span>
+          <span class="score-total" id="result-score-total">/ 50</span>
+          <div class="score-percent" id="result-percentage">0%</div>
+        </div>
+        <h2 class="result-title" id="result-title">Nəticə</h2>
+        <p class="result-msg" id="result-msg">Test hesabatı hazırlanır...</p>
+
+        <!-- Stats 4-box grid -->
+        <div class="stats-grid-4">
+          <div class="stat-cell correct">
+            <div class="val" id="stat-correct">0</div>
+            <div class="lbl">Doğru</div>
+          </div>
+          <div class="stat-cell wrong">
+            <div class="val" id="stat-wrong">0</div>
+            <div class="lbl">Səhv</div>
+          </div>
+          <div class="stat-cell unanswered">
+            <div class="val" id="stat-unanswered">0</div>
+            <div class="lbl">Boş</div>
+          </div>
+          <div class="stat-cell">
+            <div class="val" id="stat-time">00:00</div>
+            <div class="lbl">Müddət</div>
+          </div>
+        </div>
+
+        <div class="result-actions-row">
+          <button type="button" class="btn btn-primary" id="btn-restart-same">
+            Eyni aralıqla yenidən başla
+          </button>
+          <button type="button" class="btn btn-outline" id="btn-change-settings">
+            Parametrləri dəyiş
+          </button>
+        </div>
+      </div>
+
+      <!-- Detailed Review Section -->
+      <div class="card">
+        <div class="review-header-bar">
+          <h3 class="card-title" style="margin-bottom:0;">Sualların Təhlili</h3>
+          <div class="pill-group">
+            <button type="button" class="pill-btn review-filter-btn active" data-filter="all">Hamısı</button>
+            <button type="button" class="pill-btn review-filter-btn" data-filter="wrong">Yalnız Səhvlər</button>
+            <button type="button" class="pill-btn review-filter-btn" data-filter="correct">Yalnız Doğrular</button>
+            <button type="button" class="pill-btn review-filter-btn" data-filter="unanswered">Boş Qalanlar</button>
+          </div>
+        </div>
+        <p class="card-description" style="margin-bottom: 1rem;">Testdə təqdim edilmiş suallar və onların düzgün cavabları:</p>
+
+        <div id="review-list">
+          <!-- Rendered dynamically -->
+        </div>
+      </div>
+    </section>
+
+    <!-- 4. QUESTION BANK (CONSULT & SEARCH ALL 240 QUESTIONS) -->
+    <section id="screen-bank" class="view-screen">
+      <div class="card">
+        <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem;">
+          <div>
+            <h3 class="card-title" style="margin-bottom: 0.2rem;">Sual Bazası (240 Sual)</h3>
+            <p class="card-description">Mövzu və ya nömrə üzrə bütün sualları axtarın</p>
+          </div>
+          <button type="button" class="btn btn-outline" id="btn-back-from-bank">
+            Geri qayıt
+          </button>
+        </div>
+
+        <div class="search-input-wrap">
+          <input type="text" id="bank-search-input" class="shadcn-input" placeholder="Açar söz və ya sual nömrəsi daxil edin (məs: Waterfall, PERT, 71, IDEF0)...">
+        </div>
+
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; font-size: 0.8125rem; color: var(--muted-foreground);">
+          <span id="bank-total-badge" class="badge">Tapılan sual: 240 / 240</span>
+          <span>Düzgün cavablar yaşıl çərçivə ilə qeyd olunub</span>
+        </div>
+
+        <div id="bank-list-container">
+          <!-- Rendered dynamically -->
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Question Palette Modal -->
+  <div class="modal-overlay" id="palette-modal">
+    <div class="modal-content">
+      <div class="modal-top">
+        <h3>Suallar Siyahısı</h3>
+        <button type="button" class="modal-close-btn" id="btn-close-palette">&times;</button>
+      </div>
+      <div class="modal-scroll-area">
+        <div class="palette-grid" id="palette-grid">
+          <!-- Rendered dynamically -->
+        </div>
+
+        <div class="palette-legend-row">
+          <div class="legend-chip">
+            <div class="legend-square" style="background:var(--primary);"></div>
+            <span>Cavablandırılıb</span>
+          </div>
+          <div class="legend-chip">
+            <div class="legend-square" style="background:var(--background);"></div>
+            <span>Cavabsız</span>
+          </div>
+          <div class="legend-chip">
+            <div class="legend-square" style="background:#f59e0b;"></div>
+            <span>İşarələnib</span>
+          </div>
+          <div class="legend-chip">
+            <div class="legend-square" style="background:var(--success);"></div>
+            <span>Doğru</span>
+          </div>
+          <div class="legend-chip">
+            <div class="legend-square" style="background:var(--danger);"></div>
+            <span>Səhv</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Finish Confirmation Modal -->
+  <div class="modal-overlay" id="confirm-modal">
+    <div class="modal-content" style="max-width: 420px; text-align: center;">
+      <div class="modal-top">
+        <h3>Testi Yekunlaşdır</h3>
+        <button type="button" class="modal-close-btn" id="btn-close-confirm">&times;</button>
+      </div>
+      <div class="modal-scroll-area" style="padding: 1.5rem;">
+        <p id="confirm-modal-text" style="font-size: 0.9375rem; line-height: 1.5; color: var(--foreground); margin-bottom: 1.5rem;">
+          Testi tamamlamaq istədiyinizə əminsiniz?
+        </p>
+        <div style="display: flex; gap: 0.5rem;">
+          <button type="button" class="btn btn-outline" id="btn-confirm-cancel" style="flex:1;">
+            Davam et
+          </button>
+          <button type="button" class="btn btn-primary" id="btn-confirm-submit" style="flex:1;">
+            Yekunlaşdır
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>Sistem Dizaynı İmtahan Portalı • 240 Test Sualı • Avtomatlaşdırılmış Randomizasiya</p>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
